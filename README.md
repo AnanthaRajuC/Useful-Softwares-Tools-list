@@ -20,3 +20,4 @@ List of useful Softwares, Tools
  
 - <a href="https://jsfiddle.net/" target="_blank" >JSFiddle</a> Test your JavaScript, CSS, HTML or CoffeeScript online with JSFiddle code editor.
 
+- <a href="http://json2table.com/" target="_blank" >JSON2table</a> Tool to view JSON content in table and treeview format. The tool visually converts JSON to table and tree for easy navigation, analyze and validate JSON..
