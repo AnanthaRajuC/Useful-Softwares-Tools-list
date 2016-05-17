@@ -33,3 +33,5 @@ List of useful Softwares, Tools
 - <a href="http://apns-gcm.bryantan.info/" target="_blank" >APNS/GCM Online Tester</a> Online tool to test Apple Push Notification service (APNS) and Google Cloud Messaging (GCM).
 
 - <a href="http://www.tutorialspoint.com/codingground.htm" target="_blank" >Coding Ground - TutorialsPoint</a> Code in almost all popular languages using Coding Ground. Edit, compile, execute and share your projects, 100% cloud.
+
+- <a href="http://codebeautify.org/" target="_blank" >CodeBeautify</a> Online Tools like Beautifiers, Editors, Viewers, Minifier, Validators, Converters for Developers: XML, JSON, CSS, JavaScript, Java, C#, MXML, SQL, CSV, Excel.
