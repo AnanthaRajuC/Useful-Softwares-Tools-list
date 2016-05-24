@@ -38,3 +38,4 @@ List of useful Softwares, Tools
  
 - <a href="http://www.java2s.com/Code/Jar/CatalogJar.htm" target="_blank" >java2s</a> Jar File Download examples (example source code) Organized by topic.
 
+- <a href="https://slack.com/" target="_blank" >Slack</a> Slack brings all your communication together in one place. ... A messaging app for teams
