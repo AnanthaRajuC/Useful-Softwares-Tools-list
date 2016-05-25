@@ -1,4 +1,4 @@
-# Useful-Softwares-Tools-list
+# Useful Softwares, Services, Tools list
 List of useful Softwares, Tools 
 
 
@@ -38,10 +38,12 @@ List of useful Softwares, Tools
  
 - <a href="http://www.java2s.com/Code/Jar/CatalogJar.htm" target="_blank" >java2s</a> Jar File Download examples (example source code) Organized by topic.
 
-- <a href="https://slack.com/" target="_blank" >Slack</a> Slack brings all your communication together in one place. ... A messaging app for teams
+- <a href="https://slack.com/" target="_blank" >Slack</a> Slack brings all your communication together in one place. A messaging app for teams
 
 - <a href="https://trello.com/" target="_blank" >Trello</a> Communicate, collaborate, and get anything you need to get done. Trello is a visual way to update and see progress on all your projects.
  
 - <a href="https://speakerdeck.com/" target="_blank" >Speaker Deck</a> Speaker Deck is the best way to share presentations online.
 
-- <a href="http://www.uplabs.com/" target="_blank" >UpLabs</a> UpLabs curates the best of design & development inspiration, resources and freebies. .
+- <a href="http://www.uplabs.com/" target="_blank" >UpLabs</a> UpLabs curates the best of design & development inspiration, resources and freebies. 
+
+- <a href="http://www.programmableweb.com/" target="_blank" >ProgrammableWeb</a> The leading source of news & information about APIs, chronicling the evolution of the global API economy & providing the web's most relied-on API Directory.
