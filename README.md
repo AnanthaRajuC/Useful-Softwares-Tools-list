@@ -51,3 +51,5 @@ List of useful Softwares, Tools (Online/Offline)
 - <a href="http://www.slideshare.net/" target="_blank" >SlideShare</a> Discover, Share, and Present presentations and infographics with the world's largest professional content sharing community.
 
 - <a href="http://sqlfiddle.com/" target="_blank" >SQL Fiddle</a> A tool for easy online testing and sharing of database problems and their solutions.
+
+- <a href="http://phpfiddle.org/" target="_blank" >PhpFiddle</a> PhpFiddle provides Web IDE, Web Tools, APIs, Widgets, PHP Libraries, programming resources and execution environment for PHP/MySQL/SQLite, HTML/CSS and JavaScript coding online. PhpFiddle allows people to test PHP code snippets, create, execute and download web applications, for example, Zend Framework 2 projects.
