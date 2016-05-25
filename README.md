@@ -47,3 +47,5 @@ List of useful Softwares, Tools
 - <a href="http://www.uplabs.com/" target="_blank" >UpLabs</a> UpLabs curates the best of design & development inspiration, resources and freebies. 
 
 - <a href="http://www.programmableweb.com/" target="_blank" >ProgrammableWeb</a> The leading source of news & information about APIs, chronicling the evolution of the global API economy & providing the web's most relied-on API Directory.
+
+- <a href="http://www.slideshare.net/" target="_blank" >SlideShare</a> Discover, Share, and Present presentations and infographics with the world's largest professional content sharing community.
