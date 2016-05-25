@@ -1,5 +1,5 @@
 # Useful Softwares, Services, Tools list
-List of useful Softwares, Tools 
+List of useful Softwares, Tools (Online/Offline)
 
 
 - <a href="http://requestb.in/" target="_blank" >RequestBin</a> gives you a URL that will collect requests made to it and let you inspect them in a human-friendly way. Use RequestBin to see what your HTTP client is sending or to inspect and debug webhook requests.
@@ -49,3 +49,5 @@ List of useful Softwares, Tools
 - <a href="http://www.programmableweb.com/" target="_blank" >ProgrammableWeb</a> The leading source of news & information about APIs, chronicling the evolution of the global API economy & providing the web's most relied-on API Directory.
 
 - <a href="http://www.slideshare.net/" target="_blank" >SlideShare</a> Discover, Share, and Present presentations and infographics with the world's largest professional content sharing community.
+
+- <a href="http://sqlfiddle.com/" target="_blank" >SQL Fiddle</a> A tool for easy online testing and sharing of database problems and their solutions.
