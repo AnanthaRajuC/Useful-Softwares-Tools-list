@@ -42,4 +42,6 @@ List of useful Softwares, Tools
 
 - <a href="https://trello.com/" target="_blank" >Trello</a> Communicate, collaborate, and get anything you need to get done. Trello is a visual way to update and see progress on all your projects.
  
-- <a href="https://speakerdeck.com//" target="_blank" >Speaker Deck</a> Speaker Deck is the best way to share presentations online.
+- <a href="https://speakerdeck.com/" target="_blank" >Speaker Deck</a> Speaker Deck is the best way to share presentations online.
+
+- <a href="http://www.uplabs.com/" target="_blank" >UpLabs</a> UpLabs curates the best of design & development inspiration, resources and freebies. .
