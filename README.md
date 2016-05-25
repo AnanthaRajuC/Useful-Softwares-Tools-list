@@ -55,3 +55,5 @@ List of useful Softwares, Tools (Online/Offline)
 - <a href="http://phpfiddle.org/" target="_blank" >PhpFiddle</a> PhpFiddle provides Web IDE, Web Tools, APIs, Widgets, PHP Libraries, programming resources and execution environment for PHP/MySQL/SQLite, HTML/CSS and JavaScript coding online. PhpFiddle allows people to test PHP code snippets, create, execute and download web applications, for example, Zend Framework 2 projects.
 
 - <a href="https://dotnetfiddle.net/" target="_blank" >.NET Fiddle</a> NET sandbox for developers to quickly try out code and share code snippets.
+
+- <a href="https://bmfiddle.com/" target="_blank" >Business Model Fiddle</a> Free and Easy way to Capture and Develop Your Ideas.
