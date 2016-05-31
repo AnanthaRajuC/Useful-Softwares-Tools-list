@@ -59,3 +59,5 @@ List of useful Softwares, Tools (Online/Offline)
 - <a href="https://bmfiddle.com/" target="_blank" >Business Model Fiddle</a> Free and Easy way to Capture and Develop Your Ideas.
 
 - <a href="http://jsbin.com/" target="_blank" >JS Bin</a> Open source collaborative web development debugging tool.
+
+- <a href="https://blisk.io/" target="_blank" >Blisk</a> A free browser for web developers, toolbox for development, debugging and testing: emulation, sync, analytics, and screenshots.
