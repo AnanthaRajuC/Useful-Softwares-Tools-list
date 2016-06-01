@@ -49,6 +49,7 @@ List of useful Softwares, Tools (Online/Offline)
 - <a href="https://chrome.google.com/webstore/detail/isometric-contributions/mjoedlfflcchnleknnceiplgaeoegien" target="_blank" >Isometric Contributions</a> This extension allows you to toggle between the normal GitHub contribution chart and an isometric pixel art version.
 - <a href="http://getfireshot.com/" target="_blank" >FireShot</a> Capture full web page screenshots in Firefox, Chrome, Opera or IE, and then edit and save them.
 - <a href="http://fvdspeeddial.com/" target="_blank" >FVD Speed Dial</a> Tool for saving and organizing the links to your favorite sites.
+- <a href="https://addons.mozilla.org/en-US/firefox/addon/poster/" target="_blank" >Poster</a> A developer tool for interacting with web services and other web resources that lets you make HTTP requests, set the entity body, and content type. This allows you to interact with web services and inspect the results.
 
 ###Fiddles
 
