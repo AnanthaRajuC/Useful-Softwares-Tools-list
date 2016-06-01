@@ -66,4 +66,6 @@ List of useful Softwares, Tools (Online/Offline)
 
 - <a href="https://chrome.google.com/webstore/detail/isometric-contributions/mjoedlfflcchnleknnceiplgaeoegien" target="_blank" >Isometric Contributions</a> This extension allows you to toggle between the normal GitHub contribution chart and an isometric pixel art version.
 
+- <a href="http://getfireshot.com/" target="_blank" >FireShot</a> Capture full web page screenshots in Firefox, Chrome, Opera or IE, and then edit and save them.
+
 - <a href="https://github.com/kapilratnani/JSON-Viewer" target="_blank" >JSON viewer </a> A JSON viewer plugin for notepad++. Displays the selected JSON string in a tree view.
