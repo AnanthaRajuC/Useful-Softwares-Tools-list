@@ -61,3 +61,5 @@ List of useful Softwares, Tools (Online/Offline)
 - <a href="http://jsbin.com/" target="_blank" >JS Bin</a> Open source collaborative web development debugging tool.
 
 - <a href="https://blisk.io/" target="_blank" >Blisk</a> A free browser for web developers, toolbox for development, debugging and testing: emulation, sync, analytics, and screenshots.
+
+- <a href="https://notepad-plus-plus.org/" target="_blank" >Notepad++</a> a free source code editor which supports several programming languages running under the MS Windows environment.
