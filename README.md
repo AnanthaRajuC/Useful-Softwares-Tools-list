@@ -27,9 +27,6 @@ List of useful Softwares, Tools (Online/Offline)
 - <a href="http://www.programmableweb.com/" target="_blank" >ProgrammableWeb</a> The leading source of news & information about APIs, chronicling the evolution of the global API economy & providing the web's most relied-on API Directory.
 - <a href="http://www.slideshare.net/" target="_blank" >SlideShare</a> Discover, Share, and Present presentations and infographics with the world's largest professional content sharing community.
 - <a href="http://sqlfiddle.com/" target="_blank" >SQL Fiddle</a> A tool for easy online testing and sharing of database problems and their solutions.
-- <a href="http://phpfiddle.org/" target="_blank" >PhpFiddle</a> PhpFiddle provides Web IDE, Web Tools, APIs, Widgets, PHP Libraries, programming resources and execution environment for PHP/MySQL/SQLite, HTML/CSS and JavaScript coding online. PhpFiddle allows people to test PHP code snippets, create, execute and download web applications, for example, Zend Framework 2 projects.
-- <a href="https://dotnetfiddle.net/" target="_blank" >.NET Fiddle</a> NET sandbox for developers to quickly try out code and share code snippets.
-- <a href="https://bmfiddle.com/" target="_blank" >Business Model Fiddle</a> Free and Easy way to Capture and Develop Your Ideas.
 - <a href="http://jsbin.com/" target="_blank" >JS Bin</a> Open source collaborative web development debugging tool.
 - <a href="https://notepad-plus-plus.org/" target="_blank" >Notepad++</a> a free source code editor which supports several programming languages running under the MS Windows environment.
 - <a href="https://github.com/kapilratnani/JSON-Viewer" target="_blank" >JSON viewer </a> A JSON viewer plugin for notepad++. Displays the selected JSON string in a tree view.
@@ -44,3 +41,10 @@ List of useful Softwares, Tools (Online/Offline)
 - <a href="https://chrome.google.com/webstore/detail/isometric-contributions/mjoedlfflcchnleknnceiplgaeoegien" target="_blank" >Isometric Contributions</a> This extension allows you to toggle between the normal GitHub contribution chart and an isometric pixel art version.
 - <a href="http://getfireshot.com/" target="_blank" >FireShot</a> Capture full web page screenshots in Firefox, Chrome, Opera or IE, and then edit and save them.
 - <a href="http://fvdspeeddial.com/" target="_blank" >FVD Speed Dial</a> Tool for saving and organizing the links to your favorite sites.
+
+###Fiddles
+
+- <a href="http://phpfiddle.org/" target="_blank" >PhpFiddle</a> PhpFiddle provides Web IDE, Web Tools, APIs, Widgets, PHP Libraries, programming resources and execution environment for PHP/MySQL/SQLite, HTML/CSS and JavaScript coding online. PhpFiddle allows people to test PHP code snippets, create, execute and download web applications, for example, Zend Framework 2 projects.
+- <a href="https://dotnetfiddle.net/" target="_blank" >.NET Fiddle</a> NET sandbox for developers to quickly try out code and share code snippets.
+- <a href="https://bmfiddle.com/" target="_blank" >Business Model Fiddle</a> Free and Easy way to Capture and Develop Your Ideas.
+
