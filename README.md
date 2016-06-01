@@ -29,6 +29,11 @@ List of useful Softwares, Tools (Online/Offline)
 - <a href="https://notepad-plus-plus.org/" target="_blank" >Notepad++</a> a free source code editor which supports several programming languages running under the MS Windows environment.
 - <a href="https://github.com/kapilratnani/JSON-Viewer" target="_blank" >JSON viewer </a> A JSON viewer plugin for notepad++. Displays the selected JSON string in a tree view.
 
+###Virtualization
+
+- <a href="https://www.virtualbox.org/" target="_blank" >VirtualBox </a> VirtualBox is a powerful x86 and AMD64/Intel64 virtualization product for enterprise as well as home use.
+- <a href="http://www.vmware.com/in/products/player" target="_blank" >VMware Workstation</a> A streamlined desktop virtualization application that runs one or more operating systems on the same computer without rebooting.
+
 ###Web Browsers
 
 - <a href="https://blisk.io/" target="_blank" >Blisk</a> A free browser for web developers, toolbox for development, debugging and testing: emulation, sync, analytics, and screenshots.
