@@ -9,7 +9,6 @@ List of useful Softwares, Tools (Online/Offline)
 - <a href="https://ideone.com/" target="_blank" >Ideone</a> an online compiler and debugging tool which allows you to compile source code and execute it online in more than 60 programming languages.
 - <a href="http://stackshare.io/" target="_blank" >stackshare</a> Discover and discuss the best software tools and services.
 - <a href="http://htmlpreview.github.io/" target="_blank" >GitHub & BitBucket HTML Preview</a> 
-- <a href="https://gitter.im/" target="_blank" >Gitter</a> communication product for communities and teams on GitHub. 
 - <a href="http://json2table.com/" target="_blank" >JSON2table</a> Tool to view JSON content in table and treeview format. The tool visually converts JSON to table and tree for easy navigation, analyze and validate JSON.
 - <a href="http://httpbin.org/" target="_blank" >httpbin</a> HTTP Request & Response Service (Client Testing).
 - <a href="https://httpstatuses.com/" target="_blank" >HTTP Status Codes</a> an easy to reference database of HTTP Status Codes with their definitions and helpful code references all in one place. 
@@ -19,8 +18,6 @@ List of useful Softwares, Tools (Online/Offline)
 - <a href="http://www.tutorialspoint.com/codingground.htm" target="_blank" >Coding Ground - TutorialsPoint</a> Code in almost all popular languages using Coding Ground. Edit, compile, execute and share your projects, 100% cloud.
 - <a href="http://codebeautify.org/" target="_blank" >CodeBeautify</a> Online Tools like Beautifiers, Editors, Viewers, Minifier, Validators, Converters for Developers: XML, JSON, CSS, JavaScript, Java, C#, MXML, SQL, CSV, Excel.
 - <a href="http://www.java2s.com/Code/Jar/CatalogJar.htm" target="_blank" >java2s</a> Jar File Download examples (example source code) Organized by topic.
-- <a href="https://slack.com/" target="_blank" >Slack</a> Slack brings all your communication together in one place. A messaging app for teams
-- <a href="https://trello.com/" target="_blank" >Trello</a> Communicate, collaborate, and get anything you need to get done. Trello is a visual way to update and see progress on all your projects.
 - <a href="https://speakerdeck.com/" target="_blank" >Speaker Deck</a> Speaker Deck is the best way to share presentations online.
 - <a href="http://www.programmableweb.com/" target="_blank" >ProgrammableWeb</a> The leading source of news & information about APIs, chronicling the evolution of the global API economy & providing the web's most relied-on API Directory.
 - <a href="http://www.slideshare.net/" target="_blank" >SlideShare</a> Discover, Share, and Present presentations and infographics with the world's largest professional content sharing community.
@@ -63,3 +60,9 @@ List of useful Softwares, Tools (Online/Offline)
 - <a href="http://pythonfiddle.com/" target="_blank" >Python Fiddle</a> The Python IDE for the web. Play around with and modify live example code. Share or demonstrate solutions to problems.
 - <a href="http://www.r-fiddle.org/#/" target="_blank" >R-Fiddle</a> share code snippets or makie your own variations on others people code.
 - <a href="https://play.golang.org/" target="_blank" >Go Playground</a> Nice an clean environment for trying out Go, the statically typed language developed originally at Google. 
+
+###Communication
+
+- <a href="https://gitter.im/" target="_blank" >Gitter</a> communication product for communities and teams on GitHub. 
+- <a href="https://slack.com/" target="_blank" >Slack</a> Slack brings all your communication together in one place. A messaging app for teams
+- <a href="https://trello.com/" target="_blank" >Trello</a> Communicate, collaborate, and get anything you need to get done. Trello is a visual way to update and see progress on all your projects.
