@@ -22,14 +22,17 @@ List of useful Softwares, Tools (Online/Offline)
 - <a href="https://slack.com/" target="_blank" >Slack</a> Slack brings all your communication together in one place. A messaging app for teams
 - <a href="https://trello.com/" target="_blank" >Trello</a> Communicate, collaborate, and get anything you need to get done. Trello is a visual way to update and see progress on all your projects.
 - <a href="https://speakerdeck.com/" target="_blank" >Speaker Deck</a> Speaker Deck is the best way to share presentations online.
-- <a href="http://www.uplabs.com/" target="_blank" >UpLabs</a> UpLabs curates the best of design & development inspiration, resources and freebies. 
 - <a href="http://www.programmableweb.com/" target="_blank" >ProgrammableWeb</a> The leading source of news & information about APIs, chronicling the evolution of the global API economy & providing the web's most relied-on API Directory.
 - <a href="http://www.slideshare.net/" target="_blank" >SlideShare</a> Discover, Share, and Present presentations and infographics with the world's largest professional content sharing community.
 - <a href="http://jsbin.com/" target="_blank" >JS Bin</a> Open source collaborative web development debugging tool.
 - <a href="https://notepad-plus-plus.org/" target="_blank" >Notepad++</a> a free source code editor which supports several programming languages running under the MS Windows environment.
 - <a href="https://github.com/kapilratnani/JSON-Viewer" target="_blank" >JSON viewer </a> A JSON viewer plugin for notepad++. Displays the selected JSON string in a tree view.
+
+###Design
+
 - <a href="http://codepen.io/" target="_blank" >CODEPEN</a> playground for the front end web.
 - <a href="https://dribbble.com/" target="_blank" >Dribbble</a> a place to show and tell, promote, discover, and explore design.
+- <a href="http://www.uplabs.com/" target="_blank" >UpLabs</a> UpLabs curates the best of design & development inspiration, resources and freebies. 
 
 ###Virtualization
 
