@@ -10,7 +10,6 @@ List of useful Softwares, Tools (Online/Offline)
 - <a href="http://stackshare.io/" target="_blank" >stackshare</a> Discover and discuss the best software tools and services.
 - <a href="http://htmlpreview.github.io/" target="_blank" >GitHub & BitBucket HTML Preview</a> 
 - <a href="https://gitter.im/" target="_blank" >Gitter</a> communication product for communities and teams on GitHub. 
-- <a href="https://jsfiddle.net/" target="_blank" >JSFiddle</a> Test your JavaScript, CSS, HTML or CoffeeScript online with JSFiddle code editor.
 - <a href="http://json2table.com/" target="_blank" >JSON2table</a> Tool to view JSON content in table and treeview format. The tool visually converts JSON to table and tree for easy navigation, analyze and validate JSON.
 - <a href="http://httpbin.org/" target="_blank" >httpbin</a> HTTP Request & Response Service (Client Testing).
 - <a href="https://httpstatuses.com/" target="_blank" >HTTP Status Codes</a> an easy to reference database of HTTP Status Codes with their definitions and helpful code references all in one place. 
@@ -26,7 +25,6 @@ List of useful Softwares, Tools (Online/Offline)
 - <a href="http://www.uplabs.com/" target="_blank" >UpLabs</a> UpLabs curates the best of design & development inspiration, resources and freebies. 
 - <a href="http://www.programmableweb.com/" target="_blank" >ProgrammableWeb</a> The leading source of news & information about APIs, chronicling the evolution of the global API economy & providing the web's most relied-on API Directory.
 - <a href="http://www.slideshare.net/" target="_blank" >SlideShare</a> Discover, Share, and Present presentations and infographics with the world's largest professional content sharing community.
-- <a href="http://sqlfiddle.com/" target="_blank" >SQL Fiddle</a> A tool for easy online testing and sharing of database problems and their solutions.
 - <a href="http://jsbin.com/" target="_blank" >JS Bin</a> Open source collaborative web development debugging tool.
 - <a href="https://notepad-plus-plus.org/" target="_blank" >Notepad++</a> a free source code editor which supports several programming languages running under the MS Windows environment.
 - <a href="https://github.com/kapilratnani/JSON-Viewer" target="_blank" >JSON viewer </a> A JSON viewer plugin for notepad++. Displays the selected JSON string in a tree view.
@@ -47,4 +45,6 @@ List of useful Softwares, Tools (Online/Offline)
 - <a href="http://phpfiddle.org/" target="_blank" >PhpFiddle</a> PhpFiddle provides Web IDE, Web Tools, APIs, Widgets, PHP Libraries, programming resources and execution environment for PHP/MySQL/SQLite, HTML/CSS and JavaScript coding online. PhpFiddle allows people to test PHP code snippets, create, execute and download web applications, for example, Zend Framework 2 projects.
 - <a href="https://dotnetfiddle.net/" target="_blank" >.NET Fiddle</a> NET sandbox for developers to quickly try out code and share code snippets.
 - <a href="https://bmfiddle.com/" target="_blank" >Business Model Fiddle</a> Free and Easy way to Capture and Develop Your Ideas.
+- <a href="https://jsfiddle.net/" target="_blank" >JSFiddle</a> Test your JavaScript, CSS, HTML or CoffeeScript online with JSFiddle code editor.
+- <a href="http://sqlfiddle.com/" target="_blank" >SQL Fiddle</a> A tool for easy online testing and sharing of database problems and their solutions.
 
