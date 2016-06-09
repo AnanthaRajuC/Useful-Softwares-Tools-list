@@ -72,3 +72,7 @@ List of useful Softwares, Tools (Online/Offline)
 - <a href="https://slack.com/" target="_blank" >Slack</a> Slack brings all your communication together in one place. A messaging app for teams
 - <a href="https://trello.com/" target="_blank" >Trello</a> Communicate, collaborate, and get anything you need to get done. Trello is a visual way to update and see progress on all your projects.
 - <a href="https://www.hipchat.com/" target="_blank" >HipChat</a> HipChat is hosted group chat and video chat built for teams. Supercharge real-time collaboration with persistent chat rooms, file sharing, and screen sharing.
+
+###Utilities
+
+- <a href="https://technet.microsoft.com/en-gb/sysinternals/bb897437" target="_blank" >TCPView</a> TCPView is a Windows program that will show you detailed listings of all TCP and UDP endpoints on your system, including the local and remote addresses and state of TCP connections.
