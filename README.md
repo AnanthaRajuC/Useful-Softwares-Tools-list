@@ -18,9 +18,7 @@ List of useful Softwares, Tools (Online/Offline)
 - <a href="http://www.tutorialspoint.com/codingground.htm" target="_blank" >Coding Ground - TutorialsPoint</a> Code in almost all popular languages using Coding Ground. Edit, compile, execute and share your projects, 100% cloud.
 - <a href="http://codebeautify.org/" target="_blank" >CodeBeautify</a> Online Tools like Beautifiers, Editors, Viewers, Minifier, Validators, Converters for Developers: XML, JSON, CSS, JavaScript, Java, C#, MXML, SQL, CSV, Excel.
 - <a href="http://www.java2s.com/Code/Jar/CatalogJar.htm" target="_blank" >java2s</a> Jar File Download examples (example source code) Organized by topic.
-- <a href="https://speakerdeck.com/" target="_blank" >Speaker Deck</a> Speaker Deck is the best way to share presentations online.
 - <a href="http://www.programmableweb.com/" target="_blank" >ProgrammableWeb</a> The leading source of news & information about APIs, chronicling the evolution of the global API economy & providing the web's most relied-on API Directory.
-- <a href="http://www.slideshare.net/" target="_blank" >SlideShare</a> Discover, Share, and Present presentations and infographics with the world's largest professional content sharing community.
 - <a href="http://jsbin.com/" target="_blank" >JS Bin</a> Open source collaborative web development debugging tool.
 - <a href="https://github.com/kapilratnani/JSON-Viewer" target="_blank" >JSON viewer </a> A JSON viewer plugin for notepad++. Displays the selected JSON string in a tree view.
 - <a href="http://www.downforeveryoneorjustme.com/" target="_blank" >down for everyone or just me</a> Check if a website id down just for you or everyone.
