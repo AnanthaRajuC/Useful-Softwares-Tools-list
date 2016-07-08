@@ -79,3 +79,8 @@ List of useful Softwares, Tools (Online/Offline)
 
 - <a href="https://notepad-plus-plus.org/" target="_blank" >Notepad++</a> a free source code editor which supports several programming languages running under the MS Windows environment.
 - <a href="https://www.gitbook.com/editor" target="_blank" >GitBook Editor</a> Expressive Markup (Markdown/Asciidoc), Advanced proofreading, Version Control
+
+###Presentation
+
+- <a href="https://speakerdeck.com/" target="_blank" >Speaker Deck</a> Speaker Deck is the best way to share presentations online.
+- <a href="http://www.slideshare.net/" target="_blank" >SlideShare</a> Discover, Share, and Present presentations and infographics with the world's largest professional content sharing community.
