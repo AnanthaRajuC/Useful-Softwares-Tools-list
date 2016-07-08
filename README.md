@@ -22,7 +22,6 @@ List of useful Softwares, Tools (Online/Offline)
 - <a href="http://www.programmableweb.com/" target="_blank" >ProgrammableWeb</a> The leading source of news & information about APIs, chronicling the evolution of the global API economy & providing the web's most relied-on API Directory.
 - <a href="http://www.slideshare.net/" target="_blank" >SlideShare</a> Discover, Share, and Present presentations and infographics with the world's largest professional content sharing community.
 - <a href="http://jsbin.com/" target="_blank" >JS Bin</a> Open source collaborative web development debugging tool.
-- <a href="https://notepad-plus-plus.org/" target="_blank" >Notepad++</a> a free source code editor which supports several programming languages running under the MS Windows environment.
 - <a href="https://github.com/kapilratnani/JSON-Viewer" target="_blank" >JSON viewer </a> A JSON viewer plugin for notepad++. Displays the selected JSON string in a tree view.
 - <a href="http://www.downforeveryoneorjustme.com/" target="_blank" >down for everyone or just me</a> Check if a website id down just for you or everyone.
 - <a href="http://www.downforeveryoneorjustme.com/" target="_blank" >Google Fonts</a> Discover Great Typography - Hundreds of free, open-source fonts optimized for the web. 
@@ -75,3 +74,8 @@ List of useful Softwares, Tools (Online/Offline)
 ###Utilities
 
 - <a href="https://technet.microsoft.com/en-gb/sysinternals/bb897437" target="_blank" >TCPView</a> TCPView is a Windows program that will show you detailed listings of all TCP and UDP endpoints on your system, including the local and remote addresses and state of TCP connections.
+
+###Editor
+
+- <a href="https://notepad-plus-plus.org/" target="_blank" >Notepad++</a> a free source code editor which supports several programming languages running under the MS Windows environment.
+- <a href="https://www.gitbook.com/editor" target="_blank" >GitBook Editor</a> Expressive Markup (Markdown/Asciidoc), Advanced proofreading, Version Control
