@@ -27,6 +27,7 @@ List of useful Softwares, Tools (Online/Offline)
 - <a href="https://readthedocs.org/" target="_blank" >Read the Docs</a> Read the Docs hosts documentation, making it fully searchable and easy to find. You can import your docs using any major version control system.
 - <a href="https://asciinema.org/" target="_blank" >asciinema</a> Free and open source solution for recording terminal sessions and sharing them on the web.
 - <a href="https://laverna.cc/index.html" target="_blank" >Laverna</a> Markdown note taking app focused on privacy. Consider it like open source alternative to Evernote.
+- <a href="https://coggle.it/" target="_blank" >Coggle</a> A collaborative mind-mapping tool that helps you make sense of complex things.
 
 ###Design
 
