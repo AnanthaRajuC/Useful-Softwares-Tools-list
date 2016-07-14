@@ -25,7 +25,8 @@ List of useful Softwares, Tools (Online/Offline)
 - <a href="http://www.downforeveryoneorjustme.com/" target="_blank" >Google Fonts</a> Discover Great Typography - Hundreds of free, open-source fonts optimized for the web. 
 - <a href="https://winscp.net/eng/index.php" target="_blank" >WinSCP</a> an open source free SFTP client and FTP client for Windows. Its main function is the secure file transfer between local and remote computer.
 - <a href="https://readthedocs.org/" target="_blank" >Read the Docs</a> Read the Docs hosts documentation, making it fully searchable and easy to find. You can import your docs using any major version control system.
-- <a href="https://asciinema.org/" target="_blank" >asciinema</a> Free and open source solution for recording terminal sessions and sharing them on the web..
+- <a href="https://asciinema.org/" target="_blank" >asciinema</a> Free and open source solution for recording terminal sessions and sharing them on the web.
+- <a href="https://laverna.cc/index.html" target="_blank" >Laverna</a> Markdown note taking app focused on privacy. Consider it like open source alternative to Evernote.
 
 ###Design
 
