@@ -84,3 +84,7 @@ List of useful Softwares, Tools (Online/Offline)
 
 - <a href="https://speakerdeck.com/" target="_blank" >Speaker Deck</a> Speaker Deck is the best way to share presentations online.
 - <a href="http://www.slideshare.net/" target="_blank" >SlideShare</a> Discover, Share, and Present presentations and infographics with the world's largest professional content sharing community.
+
+###Entertainment
+
+- <a href="http://www.commitstrip.com/en/?" target="_blank" >CommitStrip</a> A daily strip recounting funny anecdotes of life as a coder mixed up with a dash of topical tech news.
