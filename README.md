@@ -29,6 +29,7 @@ List of useful Softwares, Tools (Online/Offline)
 - <a href="https://laverna.cc/index.html" target="_blank" >Laverna</a> Markdown note taking app focused on privacy. Consider it like open source alternative to Evernote.
 - <a href="https://coggle.it/" target="_blank" >Coggle</a> A collaborative mind-mapping tool that helps you make sense of complex things.
 - <a href="https://www.mockaroo.com/" target="_blank" >Mockaroo</a> Mockaroo lets you generate realistic test data in CSV, JSON, SQL, and Excel formats.
+- <a href="http://mockbin.com/" target="_blank" >Mockbin</a> Mockbin allows you to generate custom endpoints to test, mock, and track HTTP requests & responses between libraries, sockets and APIs.
 
 ###Design
 
