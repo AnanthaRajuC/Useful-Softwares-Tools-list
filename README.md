@@ -28,11 +28,14 @@ List of useful Softwares, Tools (Online/Offline)
 - <a href="https://asciinema.org/" target="_blank" >asciinema</a> Free and open source solution for recording terminal sessions and sharing them on the web.
 - <a href="https://laverna.cc/index.html" target="_blank" >Laverna</a> Markdown note taking app focused on privacy. Consider it like open source alternative to Evernote.
 - <a href="https://coggle.it/" target="_blank" >Coggle</a> A collaborative mind-mapping tool that helps you make sense of complex things.
-- <a href="https://www.mockaroo.com/" target="_blank" >Mockaroo</a> Mockaroo lets you generate realistic test data in CSV, JSON, SQL, and Excel formats.
 - <a href="http://mockbin.com/" target="_blank" >Mockbin</a> Mockbin allows you to generate custom endpoints to test, mock, and track HTTP requests & responses between libraries, sockets and APIs.
 - <a href="https://apiembed.com/" target="_blank" >APIembed</a> Embeddable API Code snippets - Auto-generated code snippets in many programming languages for your website, blog or API documentation. 
+
+###Data
+
 - <a href="https://www.kaggle.com/datasets" target="_blank" >Kaggle Datasets</a> The best place to discover and seamlessly analyze publicly-available data.
 - <a href="http://academictorrents.com/" target="_blank" >Academic Torrents</a> A distributed system for sharing enormous datasets for researchers, by researchers.
+- <a href="https://www.mockaroo.com/" target="_blank" >Mockaroo</a> Mockaroo lets you generate realistic test data in CSV, JSON, SQL, and Excel formats.
 
 ###Design
 
