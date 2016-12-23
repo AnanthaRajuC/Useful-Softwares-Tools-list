@@ -33,9 +33,11 @@ List of useful Softwares, Tools (Online/Offline)
 
 ###Data
 
-- <a href="https://www.kaggle.com/datasets" target="_blank" >Kaggle Datasets</a> The best place to discover and seamlessly analyze publicly-available data.
-- <a href="http://academictorrents.com/" target="_blank" >Academic Torrents</a> A distributed system for sharing enormous datasets for researchers, by researchers.
-- <a href="https://www.mockaroo.com/" target="_blank" >Mockaroo</a> Mockaroo lets you generate realistic test data in CSV, JSON, SQL, and Excel formats.
+| Tool  	|      Description     	|
+|----------	|:------------:	|
+| <a href="https://www.kaggle.com/datasets" target="_blank" >Kaggle Datasets</a> 	| The best place to discover and seamlessly analyze publicly-available data. 	|
+|<a href="http://academictorrents.com/" target="_blank" >Academic Torrents</a>|A distributed system for sharing enormous datasets for researchers, by researchers.|
+|<a href="https://www.mockaroo.com/" target="_blank" >Mockaroo</a>|Mockaroo lets you generate realistic test data in CSV, JSON, SQL, and Excel formats.|
 
 ###Design
 
