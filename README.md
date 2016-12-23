@@ -34,7 +34,7 @@ List of useful Softwares, Tools (Online/Offline)
 ###Data
 
 | Tool  	|      Description     	|
-|----------	|:------------:	|
+|----------	|:------	|
 | <a href="https://www.kaggle.com/datasets" target="_blank" >Kaggle Datasets</a> 	| The best place to discover and seamlessly analyze publicly-available data. 	|
 |<a href="http://academictorrents.com/" target="_blank" >Academic Torrents</a>|A distributed system for sharing enormous datasets for researchers, by researchers.|
 |<a href="https://www.mockaroo.com/" target="_blank" >Mockaroo</a>|Mockaroo lets you generate realistic test data in CSV, JSON, SQL, and Excel formats.|
@@ -42,7 +42,7 @@ List of useful Softwares, Tools (Online/Offline)
 ###Design
 
 | Tool  	|      Description     	|
-|----------	|:------------:	|
+|----------	|:-------------	|
 |<a href="http://codepen.io/" target="_blank" >CODEPEN</a>|playground for the front end web.|
 |<a href="https://www.behance.net/" target="_blank" >Behance</a>|Showcase and discover the latest work from top online portfolios by creative professionals across industries.| 
 |<a href="https://dribbble.com/" target="_blank" >Dribbble</a>|a place to show and tell, promote, discover, and explore design.| 
@@ -54,14 +54,17 @@ List of useful Softwares, Tools (Online/Offline)
 ###Virtualization
 
 | Tool  	|      Description     	|
-|----------	|:------------:	|
+|----------	|:------------	|
 |<a href="https://www.virtualbox.org/" target="_blank" >VirtualBox </a>|VirtualBox is a powerful x86 and AMD64/Intel64 virtualization product for enterprise as well as home use.|
 |<a href="http://www.vmware.com/in/products/player" target="_blank" >VMware Workstation</a>|A streamlined desktop virtualization application that runs one or more operating systems on the same computer without rebooting.|
 
 ###Web Browsers
 
-- <a href="https://blisk.io/" target="_blank" >Blisk</a> A free browser for web developers, toolbox for development, debugging and testing: emulation, sync, analytics, and screenshots.
-- <a href="https://brave.com/" target="_blank" >brave</a> A free browser, automatically blocks ads and trackers, making it faster and safer 
+| Tool  	|      Description     	|
+|----------	|:------------	|
+|<a href="https://blisk.io/" target="_blank" >Blisk</a>|A free browser for web developers, toolbox for development, debugging and testing: emulation, sync, analytics, and screenshots.|
+|<a href="https://brave.com/" target="_blank" >brave</a>|A free browser, automatically blocks ads and trackers, making it faster and safer|
+  
 
 ###Web Broswer Plugins
 
