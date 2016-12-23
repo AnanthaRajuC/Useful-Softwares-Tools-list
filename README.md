@@ -53,8 +53,10 @@ List of useful Softwares, Tools (Online/Offline)
 
 ###Virtualization
 
-- <a href="https://www.virtualbox.org/" target="_blank" >VirtualBox </a> VirtualBox is a powerful x86 and AMD64/Intel64 virtualization product for enterprise as well as home use.
-- <a href="http://www.vmware.com/in/products/player" target="_blank" >VMware Workstation</a> A streamlined desktop virtualization application that runs one or more operating systems on the same computer without rebooting.
+| Tool  	|      Description     	|
+|----------	|:------------:	|
+|<a href="https://www.virtualbox.org/" target="_blank" >VirtualBox </a>|VirtualBox is a powerful x86 and AMD64/Intel64 virtualization product for enterprise as well as home use.|
+|<a href="http://www.vmware.com/in/products/player" target="_blank" >VMware Workstation</a>|A streamlined desktop virtualization application that runs one or more operating systems on the same computer without rebooting.|
 
 ###Web Browsers
 
