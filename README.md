@@ -68,13 +68,17 @@ List of useful Softwares, Tools (Online/Offline)
 
 ###Web Broswer Plugins
 
-- <a href="https://chrome.google.com/webstore/detail/isometric-contributions/mjoedlfflcchnleknnceiplgaeoegien" target="_blank" >Isometric Contributions</a> This extension allows you to toggle between the normal GitHub contribution chart and an isometric pixel art version.
-- <a href="http://getfireshot.com/" target="_blank" >FireShot</a> Capture full web page screenshots in Firefox, Chrome, Opera or IE, and then edit and save them.
-- <a href="http://fvdspeeddial.com/" target="_blank" >FVD Speed Dial</a> Tool for saving and organizing the links to your favorite sites.
-- <a href="https://addons.mozilla.org/en-US/firefox/addon/poster/" target="_blank" >Poster</a> A developer tool for interacting with web services and other web resources that lets you make HTTP requests, set the entity body, and content type. This allows you to interact with web services and inspect the results.
-- <a href="https://chrome.google.com/webstore/detail/hover-zoom/nonjdcjchghhkdoolnlbekcfllmednbl?hl=en" target="_blank" >Hover Zoom</a> Browse images galleries with ease: move the mouse cursor over thumbnails to view images in their full size without loading a new page. 
-- <a href="https://chrome.google.com/webstore/detail/json-viewer/gbmdgpbipfallnflgajpaliibnhdgobh" target="_blank" >JSON Viewer</a> Chrome extension for printing JSON and JSONP. Customizable JSON/JSONP highlighter.
-- <a href="https://wappalyzer.com/download" target="_blank" >WAPPALYZER</a> It uncovers the technologies used on websites.
+
+| Tool  	|      Description     	|
+|----------	|:------------	|
+|<a href="https://chrome.google.com/webstore/detail/isometric-contributions/mjoedlfflcchnleknnceiplgaeoegien" target="_blank" >Isometric Contributions</a>|This extension allows you to toggle between the normal GitHub contribution chart and an isometric pixel art version.|
+|<a href="http://getfireshot.com/" target="_blank" >FireShot</a>|Capture full web page screenshots in Firefox, Chrome, Opera or IE, and then edit and save them.|
+|<a href="http://fvdspeeddial.com/" target="_blank" >FVD Speed Dial</a>|Tool for saving and organizing the links to your favorite sites.|
+|<a href="https://addons.mozilla.org/en-US/firefox/addon/poster/" target="_blank" >Poster</a>|A developer tool for interacting with web services and other web resources that lets you make HTTP requests, set the entity body, and content type. This allows you to interact with web services and inspect the results.|
+|<a href="https://chrome.google.com/webstore/detail/hover-zoom/nonjdcjchghhkdoolnlbekcfllmednbl?hl=en" target="_blank" >Hover Zoom</a>|Browse images galleries with ease: move the mouse cursor over thumbnails to view images in their full size without loading a new page.|
+|<a href="https://chrome.google.com/webstore/detail/json-viewer/gbmdgpbipfallnflgajpaliibnhdgobh" target="_blank" >JSON Viewer</a>|Chrome extension for printing JSON and JSONP. Customizable JSON/JSONP highlighter.|
+|<a href="https://wappalyzer.com/download" target="_blank" >WAPPALYZER</a>|It uncovers the technologies used on websites.|
+ 
 
 ###Fiddles
 
