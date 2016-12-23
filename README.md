@@ -41,13 +41,15 @@ List of useful Softwares, Tools (Online/Offline)
 
 ###Design
 
-- <a href="http://codepen.io/" target="_blank" >CODEPEN</a> playground for the front end web.
-- <a href="https://www.behance.net/" target="_blank" >Behance</a> Showcase and discover the latest work from top online portfolios by creative professionals across industries.
-- <a href="https://dribbble.com/" target="_blank" >Dribbble</a> a place to show and tell, promote, discover, and explore design.
-- <a href="http://www.uplabs.com/" target="_blank" >UpLabs</a> UpLabs curates the best of design & development inspiration, resources and freebies. 
-- <a href="http://www.materialup.com/" target="_blank" >MaterialUp</a> MaterialUp curates the best of Material Design
-- <a href="http://www.ios.uplabs.com/" target="_blank" >iOSUp</a> iOSUp curates the best of iOS & OS X
-- <a href="http://www.site.uplabs.com/" target="_blank" >SiteUp</a> SiteUp curates the best of Web Design
+| Tool  	|      Description     	|
+|----------	|:------------:	|
+|<a href="http://codepen.io/" target="_blank" >CODEPEN</a>|playground for the front end web.|
+|<a href="https://www.behance.net/" target="_blank" >Behance</a>|Showcase and discover the latest work from top online portfolios by creative professionals across industries.| 
+|<a href="https://dribbble.com/" target="_blank" >Dribbble</a>|a place to show and tell, promote, discover, and explore design.| 
+|<a href="http://www.uplabs.com/" target="_blank" >UpLabs</a>|UpLabs curates the best of design & development inspiration, resources and freebies. | 
+|<a href="http://www.materialup.com/" target="_blank" >MaterialUp</a>|MaterialUp curates the best of Material Design| 
+|<a href="http://www.ios.uplabs.com/" target="_blank" >iOSUp</a>|iOSUp curates the best of iOS & OS X|
+|<a href="http://www.site.uplabs.com/" target="_blank" >SiteUp</a>|SiteUp curates the best of Web Design|
 
 ###Virtualization
 
