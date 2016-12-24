@@ -113,9 +113,11 @@ List of useful Softwares, Tools (Online/Offline)
 
 ###Presentation
 
-- <a href="https://speakerdeck.com/" target="_blank" >Speaker Deck</a> Speaker Deck is the best way to share presentations online.
-- <a href="http://www.slideshare.net/" target="_blank" >SlideShare</a> Discover, Share, and Present presentations and infographics with the world's largest professional content sharing community.
-- <a href="https://yhatt.github.io/marp/" target="_blank" >Marp</a> Markdown presentation writer with Markdown, powered by Electron.
+| Tool  	|      Description     	|
+|----------	|:------	|
+|<a href="https://speakerdeck.com/" target="_blank" >Speaker Deck</a>|Speaker Deck is the best way to share presentations online.|
+|<a href="http://www.slideshare.net/" target="_blank" >SlideShare</a>|Discover, Share, and Present presentations and infographics with the world's largest professional content sharing community.|
+|<a href="https://yhatt.github.io/marp/" target="_blank" >Marp</a>|Markdown presentation writer with Markdown, powered by Electron.|
 
 ###Entertainment
 
