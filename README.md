@@ -87,7 +87,7 @@ List of useful Softwares, Tools (Online/Offline)
 |<a href="https://dotnetfiddle.net/" target="_blank" >.NET Fiddle</a>|NET sandbox for developers to quickly try out code and share code snippets.|
 |<a href="https://bmfiddle.com/" target="_blank" >Business Model Fiddle</a>|Free and Easy way to Capture and Develop Your Ideas.|
 |<a href="https://jsfiddle.net/" target="_blank" >JSFiddle</a>|Test your JavaScript, CSS, HTML or CoffeeScript online with JSFiddle code editor.|
-|<a href="https://github.com/AnanthaRajuC/Useful-Softwares-Tools-list/blob/master/Fiddles.md" target="_blank" >(more Fiddles)</a>|| 
+|<a href="https://github.com/AnanthaRajuC/Useful-Softwares-Tools-list/blob/master/Fiddles.md" target="_blank" >(more Fiddles)</a>||
 
 ###Communication
 
@@ -119,4 +119,6 @@ List of useful Softwares, Tools (Online/Offline)
 
 ###Entertainment
 
-- <a href="http://www.commitstrip.com/en/?" target="_blank" >CommitStrip</a> A daily strip recounting funny anecdotes of life as a coder mixed up with a dash of topical tech news.
+| Tool  	|      Description     	|
+|----------	|:------	|
+|<a href="http://www.commitstrip.com/en/?" target="_blank" >CommitStrip</a>|A daily strip recounting funny anecdotes of life as a coder mixed up with a dash of topical tech news.|
