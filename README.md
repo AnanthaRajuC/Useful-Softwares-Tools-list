@@ -68,7 +68,6 @@ List of useful Softwares, Tools (Online/Offline)
 
 ###Web Broswer Plugins
 
-
 | Tool  	|      Description     	|
 |----------	|:------------	|
 |<a href="https://chrome.google.com/webstore/detail/isometric-contributions/mjoedlfflcchnleknnceiplgaeoegien" target="_blank" >Isometric Contributions</a>|This extension allows you to toggle between the normal GitHub contribution chart and an isometric pixel art version.|
@@ -99,7 +98,9 @@ List of useful Softwares, Tools (Online/Offline)
 
 ###Utilities
 
-- <a href="https://technet.microsoft.com/en-gb/sysinternals/bb897437" target="_blank" >TCPView</a> TCPView is a Windows program that will show you detailed listings of all TCP and UDP endpoints on your system, including the local and remote addresses and state of TCP connections.
+| Tool  	|      Description     	|
+|----------	|:------	|
+|<a href="https://technet.microsoft.com/en-gb/sysinternals/bb897437" target="_blank" >TCPView</a>|TCPView is a Windows program that will show you detailed listings of all TCP and UDP endpoints on your system, including the local and remote addresses and state of TCP connections.|
 
 ###Editor
 
