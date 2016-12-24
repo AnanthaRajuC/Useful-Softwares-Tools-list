@@ -1,5 +1,5 @@
 # Useful Softwares, Services, Tools list
-List of useful Softwares, Tools (Online/Offline)
+List of useful Softwares, Tools, Plugins, Utilities (Online/Offline)
 
 | Tool  	|      Description     	|
 |----------	|:------	|
