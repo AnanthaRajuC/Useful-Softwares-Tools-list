@@ -91,10 +91,12 @@ List of useful Softwares, Tools (Online/Offline)
 
 ###Communication
 
-- <a href="https://gitter.im/" target="_blank" >Gitter</a> communication product for communities and teams on GitHub. 
-- <a href="https://slack.com/" target="_blank" >Slack</a> Slack brings all your communication together in one place. A messaging app for teams
-- <a href="https://trello.com/" target="_blank" >Trello</a> Communicate, collaborate, and get anything you need to get done. Trello is a visual way to update and see progress on all your projects.
-- <a href="https://www.hipchat.com/" target="_blank" >HipChat</a> HipChat is hosted group chat and video chat built for teams. Supercharge real-time collaboration with persistent chat rooms, file sharing, and screen sharing.
+| Tool  	|      Description     	|
+|----------	|:------	|
+|<a href="https://gitter.im/" target="_blank" >Gitter</a>|communication product for communities and teams on GitHub.|
+|<a href="https://slack.com/" target="_blank" >Slack</a>|Slack brings all your communication together in one place. A messaging app for teams|
+|<a href="https://trello.com/" target="_blank" >Trello</a>|Communicate, collaborate, and get anything you need to get done. Trello is a visual way to update and see progress on all your projects.|
+|<a href="https://www.hipchat.com/" target="_blank" >HipChat</a>|HipChat is hosted group chat and video chat built for teams. Supercharge real-time collaboration with persistent chat rooms, file sharing, and screen sharing.|
 
 ###Utilities
 
