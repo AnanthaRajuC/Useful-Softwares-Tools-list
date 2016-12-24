@@ -26,7 +26,6 @@ List of useful Softwares, Tools (Online/Offline)
 |<a href="https://winscp.net/eng/index.php" target="_blank" >WinSCP</a>|an open source free SFTP client and FTP client for Windows. Its main function is the secure file transfer between local and remote computer.|
 |<a href="https://readthedocs.org/" target="_blank" >Read the Docs</a>|Read the Docs hosts documentation, making it fully searchable and easy to find. You can import your docs using any major version control system.|
 |<a href="https://asciinema.org/" target="_blank" >asciinema</a>|Free and open source solution for recording terminal sessions and sharing them on the web.|
-|<a href="https://laverna.cc/index.html" target="_blank" >Laverna</a>|Markdown note taking app focused on privacy. Consider it like open source alternative to Evernote.|
 |<a href="https://coggle.it/" target="_blank" >Coggle</a>|A collaborative mind-mapping tool that helps you make sense of complex things.|
 |<a href="http://mockbin.com/" target="_blank" >Mockbin</a>|Mockbin allows you to generate custom endpoints to test, mock, and track HTTP requests & responses between libraries, sockets and APIs.|
 |<a href="https://apiembed.com/" target="_blank" >APIembed</a>|Embeddable API Code snippets - Auto-generated code snippets in many programming languages for your website, blog or API documentation.|
@@ -110,6 +109,7 @@ List of useful Softwares, Tools (Online/Offline)
 |----------	|:------	|
 |<a href="https://notepad-plus-plus.org/" target="_blank" >Notepad++</a>|a free source code editor which supports several programming languages running under the MS Windows environment.|
 |<a href="https://www.gitbook.com/editor" target="_blank" >GitBook Editor</a>|Expressive Markup (Markdown/Asciidoc), Advanced proofreading, Version Control|
+|<a href="https://laverna.cc/index.html" target="_blank" >Laverna</a>|Markdown note taking app focused on privacy. Consider it like open source alternative to Evernote.|
 
 ###Presentation
 
