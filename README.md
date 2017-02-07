@@ -124,3 +124,14 @@ List of useful Softwares, Tools, Plugins, Utilities (Online/Offline)
 | Tool  	|      Description     	|
 |----------	|:------	|
 |<a href="http://www.commitstrip.com/en/?" target="_blank" >CommitStrip</a>|A daily strip recounting funny anecdotes of life as a coder mixed up with a dash of topical tech news.|
+
+
+###Others
+
+| Tool  	|      Description     	|
+|----------	|:------	|
+|<a href="https://www.katacoda.com/" target="_blank" >Katacoda</a>|Interactive Learning Platform for Software Engineers.|
+|<a href="https://howsecureismypassword.net/" target="_blank" >HOW SECURE IS MY PASSWORD?</a>|Password strength meter.|
+|<a href="https://dzone.com/" target="_blank" >DZone</a>|Community and publisher of technical content for software professionals.|
+|<a href="https://www.gitbook.com/" target="_blank" >GitBook</a>|GitBook helps your team write, collaborate and publish content online.|
+|<a href="https://www.codeproject.com/" target="_blank" >CodeProject</a>|Free source code and tutorials for Windows developers. Programming help for Visual Basic.Net and other .Net family languages.|
