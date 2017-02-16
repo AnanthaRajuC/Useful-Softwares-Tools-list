@@ -135,3 +135,4 @@ List of useful Softwares, Tools, Plugins, Utilities (Online/Offline)
 |<a href="https://dzone.com/" target="_blank" >DZone</a>|Community and publisher of technical content for software professionals.|
 |<a href="https://www.gitbook.com/" target="_blank" >GitBook</a>|GitBook helps your team write, collaborate and publish content online.|
 |<a href="https://www.codeproject.com/" target="_blank" >CodeProject</a>|Free source code and tutorials for Windows developers. Programming help for Visual Basic.Net and other .Net family languages.|
+|<a href="https://choosealicense.com/" target="_blank" >choosealicense</a>|A site to provide non-judgmental guidance on choosing a license for your open source project.|
