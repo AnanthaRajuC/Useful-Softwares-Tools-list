@@ -139,3 +139,9 @@ List of useful Softwares, Tools, Plugins, Utilities (Online/Offline)
 |<a href="http://www.devopsbookmarks.com/" target="_blank" >DevOps Bookmarks</a>|Discover tools and frameworks in the DevOps landscape.|
 |<a href="http://www.algomation.com/" target="_blank" >Algomation</a>|a platform for viewing, creating and sharing any type of algorithm.|
 |<a href="https://anvaka.github.io/common-words/#?lang=js" target="_blank" >Common Words</a>|visualization of common words in different programming languages.|
+
+###Crypto Currency
+
+| Tool  	|      Description     	|
+|----------	|:------	|
+|<a href="https://currencio.co/" target="_blank" >Currencio</a>|World Currency & Cryptocurrencies Converter.|
