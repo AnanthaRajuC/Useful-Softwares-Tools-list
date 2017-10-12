@@ -139,6 +139,7 @@ List of useful Softwares, Tools, Plugins, Utilities (Online/Offline)
 |<a href="http://www.devopsbookmarks.com/" target="_blank" >DevOps Bookmarks</a>|Discover tools and frameworks in the DevOps landscape.|
 |<a href="http://www.algomation.com/" target="_blank" >Algomation</a>|a platform for viewing, creating and sharing any type of algorithm.|
 |<a href="https://anvaka.github.io/common-words/#?lang=js" target="_blank" >Common Words</a>|visualization of common words in different programming languages.|
+|<a href="https://dbeaver.jkiss.org/" target="_blank" >DBeaver</a>|Free multi-platform database tool for developers, SQL programmers, database administrators and analysts. Supports all popular databases.|
 
 ###Crypto Currency
 
