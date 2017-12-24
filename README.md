@@ -145,4 +145,4 @@ List of useful Softwares, Tools, Plugins, Utilities (Online/Offline)
 
 | Tool  	|      Description     	|
 |----------	|:------	|
-|<a href="https://currencio.co/" target="_blank" >Currencio</a>|World Currency & Cryptocurrencies Converter.|
+|<a href="https://github.com/AnanthaRajuC/Cryptocurrency-List/blob/master/Cryptocurrency%20Tools.md" target="_blank" >Crypto Currency</a>|List of Cyptocurrency related tools.|
