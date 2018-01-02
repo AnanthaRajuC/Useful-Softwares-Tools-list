@@ -32,6 +32,7 @@ List of useful Softwares, Tools, Plugins, Utilities (Online/Offline)
 |<a href="http://mockbin.com/" target="_blank" >Mockbin</a>|Mockbin allows you to generate custom endpoints to test, mock, and track HTTP requests & responses between libraries, sockets and APIs.|
 |<a href="https://apiembed.com/" target="_blank" >APIembed</a>|Embeddable API Code snippets - Auto-generated code snippets in many programming languages for your website, blog or API documentation.|
 |<a href="https://www.freeformatter.com/" target="_blank" >Free Formatter</a>|Tools include several formatters, validators, code minifiers, string escapers, encoders and decoders, message digesters, web resources and more.|
+|<a href="http://www.useragentstring.com/" target="_blank" >User Agent String</a>|Analyze User Agent of you browser or any other user agent string.|
 
 ###Data
 
