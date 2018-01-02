@@ -9,6 +9,7 @@ List of useful Softwares, Tools, Plugins, Utilities (Online/Offline)
 |<a href="https://ideone.com/" target="_blank" >Ideone</a>|an online compiler and debugging tool which allows you to compile source code and execute it online in more than 60 programming languages.|
 |<a href="http://stackshare.io/" target="_blank" >stackshare</a>|Discover and discuss the best software tools and services.|
 |<a href="http://htmlpreview.github.io/" target="_blank" >GitHub & BitBucket HTML Preview</a> ||
+|<a href="https://www.gitignore.io/" target="_blank" >git ignore</a> |Create useful .gitignore files for your project based on OS's, IDE's or Programming Languages|
 |<a href="http://json2table.com/" target="_blank" >JSON2table</a>|Tool to view JSON content in table and treeview format. The tool visually converts JSON to table and tree for easy navigation, analyze and validate JSON.|
 |<a href="http://httpbin.org/" target="_blank" >httpbin</a>|HTTP Request & Response Service (Client Testing).|
 |<a href="https://httpstatuses.com/" target="_blank" >HTTP Status Codes</a>|an easy to reference database of HTTP Status Codes with their definitions and helpful code references all in one place.|
