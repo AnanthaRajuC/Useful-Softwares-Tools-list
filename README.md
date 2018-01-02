@@ -33,8 +33,7 @@ List of useful Softwares, Tools, Plugins, Utilities (Online/Offline)
 |<a href="https://apiembed.com/" target="_blank" >APIembed</a>|Embeddable API Code snippets - Auto-generated code snippets in many programming languages for your website, blog or API documentation.|
 |<a href="https://www.freeformatter.com/" target="_blank" >Free Formatter</a>|Tools include several formatters, validators, code minifiers, string escapers, encoders and decoders, message digesters, web resources and more.|
 |<a href="http://www.useragentstring.com/" target="_blank" >User Agent String</a>|Analyze User Agent of you browser or any other user agent string.|
-|<a href="https://loader.io/" target="_blank" >Loader</a>|Free load testing service that allows you to stress test
-your web-apps & apis with thousands of concurrent connections.|
+|<a href="https://loader.io/" target="_blank" >Loader</a>|Free load testing service that allows you to stress test your web-apps & apis with thousands of concurrent connections.|
 |<a href="https://www.statuspage.io/" target="_blank" >Statuspage</a>|Status and incident communication tool.|
 
 ###Data
