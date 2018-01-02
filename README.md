@@ -35,7 +35,7 @@ List of useful Softwares, Tools, Plugins, Utilities (Online/Offline)
 |<a href="http://www.useragentstring.com/" target="_blank" >User Agent String</a>|Analyze User Agent of you browser or any other user agent string.|
 |<a href="https://loader.io/" target="_blank" >Loader</a>|Free load testing service that allows you to stress test
 your web-apps & apis with thousands of concurrent connections.|
-|<a href="https://www.statuspage.io/" target="_blank" >Statuspage/a>|Status and incident communication tool.|
+|<a href="https://www.statuspage.io/" target="_blank" >Statuspage</a>|Status and incident communication tool.|
 
 ###Data
 
