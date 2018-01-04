@@ -40,7 +40,7 @@ List of useful Softwares, Tools, Plugins, Utilities (Online/Offline)
 |<a href="https://github-profile-summary.com/search" target="_blank" >Github Profile Summary</a>|Tool for visualizing GitHub profiles.|
 |<a href="http://jd.benow.ca/" target="_blank" >Java Decompiler</a>|Tool to decompile and analyze Java 5 “byte code” and the later versions.|
 
-###Data
+### Data
 
 | Tool  	|      Description     	|
 |----------	|:------	|
@@ -48,7 +48,7 @@ List of useful Softwares, Tools, Plugins, Utilities (Online/Offline)
 |<a href="http://academictorrents.com/" target="_blank" >Academic Torrents</a>|A distributed system for sharing enormous datasets for researchers, by researchers.|
 |<a href="https://www.mockaroo.com/" target="_blank" >Mockaroo</a>|Mockaroo lets you generate realistic test data in CSV, JSON, SQL, and Excel formats.|
 
-###Design
+### Design
 
 | Tool  	|      Description     	|
 |----------	|:-------------	|
@@ -60,14 +60,14 @@ List of useful Softwares, Tools, Plugins, Utilities (Online/Offline)
 |<a href="http://www.ios.uplabs.com/" target="_blank" >iOSUp</a>|iOSUp curates the best of iOS & OS X|
 |<a href="http://www.site.uplabs.com/" target="_blank" >SiteUp</a>|SiteUp curates the best of Web Design|
 
-###Virtualization
+### Virtualization
 
 | Tool  	|      Description     	|
 |----------	|:------------	|
 |<a href="https://www.virtualbox.org/" target="_blank" >VirtualBox </a>|VirtualBox is a powerful x86 and AMD64/Intel64 virtualization product for enterprise as well as home use.|
 |<a href="http://www.vmware.com/in/products/player" target="_blank" >VMware Workstation</a>|A streamlined desktop virtualization application that runs one or more operating systems on the same computer without rebooting.|
 
-###Web Browsers
+### Web Browsers
 
 | Tool  	|      Description     	|
 |----------	|:------------	|
@@ -75,7 +75,7 @@ List of useful Softwares, Tools, Plugins, Utilities (Online/Offline)
 |<a href="https://brave.com/" target="_blank" >brave</a>|A free browser, automatically blocks ads and trackers, making it faster and safer|
   
 
-###Web Broswer Plugins
+### Web Broswer Plugins
 
 | Tool  	|      Description     	|
 |----------	|:------------	|
@@ -88,7 +88,7 @@ List of useful Softwares, Tools, Plugins, Utilities (Online/Offline)
 |<a href="https://wappalyzer.com/download" target="_blank" >WAPPALYZER</a>|It uncovers the technologies used on websites.|
  
 
-###Fiddles
+### Fiddles
 
 | Tool  	|      Description     	|
 |----------	|:------	|
@@ -98,7 +98,7 @@ List of useful Softwares, Tools, Plugins, Utilities (Online/Offline)
 |<a href="https://jsfiddle.net/" target="_blank" >JSFiddle</a>|Test your JavaScript, CSS, HTML or CoffeeScript online with JSFiddle code editor.|
 |<a href="https://github.com/AnanthaRajuC/Useful-Softwares-Tools-list/blob/master/Fiddles.md" target="_blank" >(more Fiddles)</a>||
 
-###Communication
+### Communication
 
 | Tool  	|      Description     	|
 |----------	|:------	|
@@ -107,13 +107,13 @@ List of useful Softwares, Tools, Plugins, Utilities (Online/Offline)
 |<a href="https://trello.com/" target="_blank" >Trello</a>|Communicate, collaborate, and get anything you need to get done. Trello is a visual way to update and see progress on all your projects.|
 |<a href="https://www.hipchat.com/" target="_blank" >HipChat</a>|HipChat is hosted group chat and video chat built for teams. Supercharge real-time collaboration with persistent chat rooms, file sharing, and screen sharing.|
 
-###Utilities
+### Utilities
 
 | Tool  	|      Description     	|
 |----------	|:------	|
 |<a href="https://technet.microsoft.com/en-gb/sysinternals/bb897437" target="_blank" >TCPView</a>|TCPView is a Windows program that will show you detailed listings of all TCP and UDP endpoints on your system, including the local and remote addresses and state of TCP connections.|
 
-###Editor
+### Editor
 
 | Tool  	|      Description     	|
 |----------	|:------	|
@@ -121,7 +121,7 @@ List of useful Softwares, Tools, Plugins, Utilities (Online/Offline)
 |<a href="https://www.gitbook.com/editor" target="_blank" >GitBook Editor</a>|Expressive Markup (Markdown/Asciidoc), Advanced proofreading, Version Control|
 |<a href="https://laverna.cc/index.html" target="_blank" >Laverna</a>|Markdown note taking app focused on privacy. Consider it like open source alternative to Evernote.|
 
-###Presentation
+### Presentation
 
 | Tool  	|      Description     	|
 |----------	|:------	|
@@ -129,14 +129,14 @@ List of useful Softwares, Tools, Plugins, Utilities (Online/Offline)
 |<a href="http://www.slideshare.net/" target="_blank" >SlideShare</a>|Discover, Share, and Present presentations and infographics with the world's largest professional content sharing community.|
 |<a href="https://yhatt.github.io/marp/" target="_blank" >Marp</a>|Markdown presentation writer with Markdown, powered by Electron.|
 
-###Entertainment
+### Entertainment
 
 | Tool  	|      Description     	|
 |----------	|:------	|
 |<a href="http://www.commitstrip.com/en/?" target="_blank" >CommitStrip</a>|A daily strip recounting funny anecdotes of life as a coder mixed up with a dash of topical tech news.|
 
 
-###Others
+### Others
 
 | Tool  	|      Description     	|
 |----------	|:------	|
@@ -151,7 +151,7 @@ List of useful Softwares, Tools, Plugins, Utilities (Online/Offline)
 |<a href="https://anvaka.github.io/common-words/#?lang=js" target="_blank" >Common Words</a>|visualization of common words in different programming languages.|
 |<a href="https://dbeaver.jkiss.org/" target="_blank" >DBeaver</a>|Free multi-platform database tool for developers, SQL programmers, database administrators and analysts. Supports all popular databases.|
 
-###Crypto Currency
+### Crypto Currency
 
 | Tool  	|      Description     	|
 |----------	|:------	|
