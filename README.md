@@ -140,6 +140,7 @@ List of useful Softwares, Tools, Plugins, Utilities (Online/Offline)
 |<a href="http://www.java2s.com/Code/Jar/CatalogJar.htm" target="_blank" >java2s</a>|Jar File Download examples (example source code) Organized by topic.|
 |<a href="http://java-design-patterns.com/" target="_blank" >Java Design Patterns</a>|Collection of several design patterns implemented in Java.|
 |<a href="http://jd.benow.ca/" target="_blank" >Java Decompiler</a>|Tool to decompile and analyze Java 5 “byte code” and the later versions.|
+|<a href="https://github.com/skylot/jadx" target="_blank" >jadx - Dex to Java decompiler</a>|Command line and GUI tools for produce Java source code from Android Dex and Apk files.|
 
 
 ### Others
