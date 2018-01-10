@@ -37,6 +37,7 @@ List of useful Softwares, Tools, Plugins, Utilities (Online/Offline)
 |<a href="https://bestpractices.coreinfrastructure.org/" target="_blank" >CII Best Practices Badge Program</a>|The Linux Foundation (LF) Core Infrastructure Initiative (CII) Best Practices badge is a way for Free/Libre and Open Source Software (FLOSS) projects to show that they follow best practices.|
 |<a href="https://github-profile-summary.com/search" target="_blank" >Github Profile Summary</a>|Tool for visualizing GitHub profiles.|
 |<a href="https://docusaurus.io/" target="_blank" >Docusaurus</a>|Easy to Maintain Open Source Documentation Websites.|
+|<a href="https://www.sourcetreeapp.com/" target="_blank" >Sourcetree</a>|A free Git GUI client for Windows and Mac.|
 
 ### Data
 
