@@ -120,6 +120,7 @@ List of useful Softwares, Tools, Plugins, Utilities (Online/Offline)
 |<a href="https://notepad-plus-plus.org/" target="_blank" >Notepad++</a>|a free source code editor which supports several programming languages running under the MS Windows environment.|
 |<a href="https://www.gitbook.com/editor" target="_blank" >GitBook Editor</a>|Expressive Markup (Markdown/Asciidoc), Advanced proofreading, Version Control|
 |<a href="https://laverna.cc/index.html" target="_blank" >Laverna</a>|Markdown note taking app focused on privacy. Consider it like open source alternative to Evernote.|
+|<a href="https://code.visualstudio.com/" target="_blank" >Visual Studio Code</a>|Open Source code editor by Microsoft.|
 
 ### Presentation
 
