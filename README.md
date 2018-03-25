@@ -40,6 +40,7 @@ List of useful Softwares, Tools, Plugins, Utilities (Online/Offline)
 |<a href="https://docusaurus.io/" target="_blank" >Docusaurus</a>|Easy to Maintain Open Source Documentation Websites.|
 |<a href="https://www.sourcetreeapp.com/" target="_blank" >Sourcetree</a>|A free Git GUI client for Windows and Mac.|
 |<a href="http://cmder.net/" target="_blank" >cmder</a>|Portable console emulator for Windows.|
+|<a href="https://developers.google.com/web/tools/lighthouse/" target="_blank" >Lighthouse</a>|Lighthouse is an open-source, automated tool for improving the quality of web pages.|
 
 ### Data
 
