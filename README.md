@@ -92,6 +92,7 @@ List of useful Softwares, Tools, Plugins, Utilities (Online/Offline)
 |<a href="https://chrome.google.com/webstore/detail/floating-for-youtube-exte/egncdnniomonjgpjbapalkckojhkfddk" target="_blank" >Floating for YouTube™ Extension</a>|Open YouTube video in Floating Mini Player for YouTube™.|
 |<a href="https://chrome.google.com/webstore/detail/builtwith-technology-prof/dapjbgnjinbpoindlpdmhochffioedbn" target="_blank" >BuiltWith Technology Profiler</a>|Find out what the website you are visiting is built with using this extension.|
 |<a href="https://chrome.google.com/webstore/detail/whatfont/jabopobgcpjmedljpbcaablpmlmfcogm" target="_blank" >WhatFont</a>|The easiest way to identify fonts on web pages.|
+|<a href="https://chrome.google.com/webstore/detail/alexa-traffic-rank/cknebhggccemgcnbidipinkifmmegdel" target="_blank" >Alexa Traffic Rank</a>|The Official Alexa Traffic Rank Extension, providing Alexa Traffic Rank and site Information when clicked.|
  
 
 ### Fiddles
