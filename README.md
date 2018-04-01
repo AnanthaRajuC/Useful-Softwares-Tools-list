@@ -88,6 +88,7 @@ List of useful Softwares, Tools, Plugins, Utilities (Online/Offline)
 |<a href="https://chrome.google.com/webstore/detail/hover-zoom/nonjdcjchghhkdoolnlbekcfllmednbl?hl=en" target="_blank" >Hover Zoom</a>|Browse images galleries with ease: move the mouse cursor over thumbnails to view images in their full size without loading a new page.|
 |<a href="https://chrome.google.com/webstore/detail/json-viewer/gbmdgpbipfallnflgajpaliibnhdgobh" target="_blank" >JSON Viewer</a>|Chrome extension for printing JSON and JSONP. Customizable JSON/JSONP highlighter.|
 |<a href="https://wappalyzer.com/download" target="_blank" >WAPPALYZER</a>|It uncovers the technologies used on websites.|
+|<a href="https://chrome.google.com/webstore/detail/floating-for-youtube/jjphmlaoffndcnecccgemfdaaoighkel" target="_blank" >Floating for YouTube™</a>|Always on top Floating Mini Player for YouTube™.|
  
 
 ### Fiddles
