@@ -90,6 +90,7 @@ List of useful Softwares, Tools, Plugins, Utilities (Online/Offline)
 |<a href="https://wappalyzer.com/download" target="_blank" >WAPPALYZER</a>|It uncovers the technologies used on websites.|
 |<a href="https://chrome.google.com/webstore/detail/floating-for-youtube/jjphmlaoffndcnecccgemfdaaoighkel" target="_blank" >Floating for YouTube™</a>|Always on top Floating Mini Player for YouTube™.|
 |<a href="https://chrome.google.com/webstore/detail/floating-for-youtube-exte/egncdnniomonjgpjbapalkckojhkfddk" target="_blank" >Floating for YouTube™ Extension</a>|Open YouTube video in Floating Mini Player for YouTube™.|
+|<a href="https://chrome.google.com/webstore/detail/builtwith-technology-prof/dapjbgnjinbpoindlpdmhochffioedbn" target="_blank" >BuiltWith Technology Profiler</a>|Find out what the website you are visiting is built with using this extension.|
  
 
 ### Fiddles
