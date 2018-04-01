@@ -94,6 +94,7 @@ List of useful Softwares, Tools, Plugins, Utilities (Online/Offline)
 |<a href="https://chrome.google.com/webstore/detail/whatfont/jabopobgcpjmedljpbcaablpmlmfcogm" target="_blank" >WhatFont</a>|The easiest way to identify fonts on web pages.|
 |<a href="https://chrome.google.com/webstore/detail/alexa-traffic-rank/cknebhggccemgcnbidipinkifmmegdel" target="_blank" >Alexa Traffic Rank</a>|The Official Alexa Traffic Rank Extension, providing Alexa Traffic Rank and site Information when clicked.|
 |<a href="https://chrome.google.com/webstore/detail/clear-cache/cppjkneekbjaeellbfkmgnhonkkjfpdn" target="_blank" >Clear Cache</a>|Clear your cache and browsing data with a single click of a button.|
+|<a href="https://chrome.google.com/webstore/detail/speedtest-by-ookla/pgjjikdiikihdfpoppgaidccahalehjh" target="_blank" >Speedtest by Ookla</a>|Take a Speedtest directly from your Google Chrome toolbar to quickly test your internet performance.|
  
 
 ### Fiddles
