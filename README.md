@@ -4,8 +4,6 @@ List of Free and <a href="https://en.wikipedia.org/wiki/Open-source_software" ta
 | Tool  	|      Description     	|
 |----------	|:------	|
 |<a href="http://stackshare.io/" target="_blank" >stackshare</a>|Discover and discuss the best software tools and services.|
-|<a href="http://htmlpreview.github.io/" target="_blank" >GitHub & BitBucket HTML Preview</a> ||
-|<a href="https://www.gitignore.io/" target="_blank" >git ignore</a> |Create useful .gitignore files for your project based on OS's, IDE's or Programming Languages|
 |<a href="http://apns-gcm.bryantan.info/" target="_blank" >APNS/GCM Online Tester</a>|Online tool to test Apple Push Notification service (APNS) and Google Cloud Messaging (GCM).|
 |<a href="http://codebeautify.org/" target="_blank" >CodeBeautify</a>|Online Tools like Beautifiers, Editors, Viewers, Minifier, Validators, Converters for Developers: XML, JSON, CSS, JavaScript, Java, C#, MXML, SQL, CSV, Excel.|
 |<a href="http://jsbin.com/" target="_blank" >JS Bin</a>|Open source collaborative web development debugging tool.|
@@ -17,11 +15,18 @@ List of Free and <a href="https://en.wikipedia.org/wiki/Open-source_software" ta
 |<a href="https://www.freeformatter.com/" target="_blank" >Free Formatter</a>|Tools include several formatters, validators, code minifiers, string escapers, encoders and decoders, message digesters, web resources and more.|
 |<a href="https://loader.io/" target="_blank" >Loader</a>|Free load testing service that allows you to stress test your web-apps & apis with thousands of concurrent connections.|
 |<a href="https://bestpractices.coreinfrastructure.org/" target="_blank" >CII Best Practices Badge Program</a>|The Linux Foundation (LF) Core Infrastructure Initiative (CII) Best Practices badge is a way for Free/Libre and Open Source Software (FLOSS) projects to show that they follow best practices.|
-|<a href="https://github-profile-summary.com/search" target="_blank" >Github Profile Summary</a>|Tool for visualizing GitHub profiles.|
 |<a href="https://docusaurus.io/" target="_blank" >Docusaurus</a>|Easy to Maintain Open Source Documentation Websites.|
-|<a href="https://www.sourcetreeapp.com/" target="_blank" >Sourcetree</a>|A free Git GUI client for Windows and Mac.|
 |<a href="http://cmder.net/" target="_blank" >cmder</a>|Portable console emulator for Windows.|
 |<a href="https://developers.google.com/web/tools/lighthouse/" target="_blank" >Lighthouse</a>|Lighthouse is an open-source, automated tool for improving the quality of web pages.|
+
+### Version control
+
+| Tool  	|      Description     	|
+|----------	|:------	|
+|<a href="https://www.sourcetreeapp.com/" target="_blank" >Sourcetree</a>|A free Git GUI client for Windows and Mac.|
+|<a href="https://github-profile-summary.com/search" target="_blank" >Github Profile Summary</a>|Tool for visualizing GitHub profiles.|
+|<a href="http://htmlpreview.github.io/" target="_blank" >GitHub & BitBucket HTML Preview</a> ||
+|<a href="https://www.gitignore.io/" target="_blank" >git ignore</a> |Create useful .gitignore files for your project based on OS's, IDE's or Programming Languages|
 
 ### Data
 
