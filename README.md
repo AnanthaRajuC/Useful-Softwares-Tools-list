@@ -50,6 +50,7 @@ List of useful Softwares, Tools, Plugins, Utilities (Online/Offline)
 | <a href="https://www.kaggle.com/datasets" target="_blank" >Kaggle Datasets</a> 	| The best place to discover and seamlessly analyze publicly-available data. 	|
 |<a href="http://academictorrents.com/" target="_blank" >Academic Torrents</a>|A distributed system for sharing enormous datasets for researchers, by researchers.|
 |<a href="https://www.mockaroo.com/" target="_blank" >Mockaroo</a>|Mockaroo lets you generate realistic test data in CSV, JSON, SQL, and Excel formats.|
+|<a href="https://dbeaver.jkiss.org/" target="_blank" >DBeaver</a>|Free multi-platform database tool for developers, SQL programmers, database administrators and analysts. Supports all popular databases: MySQL, PostgreSQL, MariaDB, SQLite, Oracle, DB2, SQL Server, Sybase, MS Access, Teradata, Firebird, Derby, etc.|
 
 ### Design
 
@@ -156,7 +157,7 @@ List of useful Softwares, Tools, Plugins, Utilities (Online/Offline)
 |<a href="http://java-design-patterns.com/" target="_blank" >Java Design Patterns</a>|Collection of several design patterns implemented in Java.|
 |<a href="http://jd.benow.ca/" target="_blank" >Java Decompiler</a>|Tool to decompile and analyze Java 5 “byte code” and the later versions.|
 |<a href="https://github.com/skylot/jadx" target="_blank" >jadx - Dex to Java decompiler</a>|Command line and GUI tools for produce Java source code from Android Dex and Apk files.|
-|<a href="https://github.com/skylot/jadxhttps://bytecodeviewer.com/" target="_blank" >Bytecode Viewer</a>|Command line and GUI tools for produce Java source code from Android Dex and Apk files.|
+|<a href="https://github.com/skylot/jadxhttps://bytecodeviewer.com/" target="_blank" >Bytecode Viewer</a>|A Java 8 Jar & Android APK Reverse Engineering Suite (Decompiler, Editor, Debugger & More).|
 
 
 ### Others
@@ -172,7 +173,6 @@ List of useful Softwares, Tools, Plugins, Utilities (Online/Offline)
 |<a href="http://www.devopsbookmarks.com/" target="_blank" >DevOps Bookmarks</a>|Discover tools and frameworks in the DevOps landscape.|
 |<a href="http://www.algomation.com/" target="_blank" >Algomation</a>|a platform for viewing, creating and sharing any type of algorithm.|
 |<a href="https://anvaka.github.io/common-words/#?lang=js" target="_blank" >Common Words</a>|visualization of common words in different programming languages.|
-|<a href="https://dbeaver.jkiss.org/" target="_blank" >DBeaver</a>|A Java 8 Jar & Android APK Reverse Engineering Suite (Decompiler, Editor, Debugger & More).|
 
 ### Crypto Currency
 
