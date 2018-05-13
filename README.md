@@ -1,5 +1,5 @@
 # Useful Softwares, Services, Tools list
-List of useful Softwares, Tools, Plugins, Utilities (Online/Offline)
+List of Free and <a href="https://en.wikipedia.org/wiki/Open-source_software" target="_blank" >Open-source softwares</a>, Tools, Plugins, Utilities (Online/Offline)
 
 | Tool  	|      Description     	|
 |----------	|:------	|
