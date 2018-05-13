@@ -4,10 +4,6 @@ List of useful Softwares, Tools, Plugins, Utilities (Online/Offline)
 | Tool  	|      Description     	|
 |----------	|:------	|
 |<a href="http://requestb.in/" target="_blank" >RequestBin</a>|gives you a URL that will collect requests made to it and let you inspect them in a human-friendly way. Use RequestBin to see what your HTTP client is sending or to inspect and debug webhook requests.|
-|<a href="https://wakatime.com/" target="_blank" >WakaTime</a>|Quantify your coding. Metrics, insights, and time tracking automatically generated from your programming activity.|
-|<a href="https://ideone.com/" target="_blank" >Ideone</a>|an online compiler and debugging tool which allows you to compile source code and execute it online in more than 60 programming languages.|
-|<a href="https://codenvy.io" target="_blank" >Codenvy</a>|Self-service Eclipse Che workspaces.|
-|<a href="https://tio.run/#" target="_blank" >Try It Online</a>|Online compiler for several practical and recreational programming languages.|
 |<a href="http://stackshare.io/" target="_blank" >stackshare</a>|Discover and discuss the best software tools and services.|
 |<a href="http://htmlpreview.github.io/" target="_blank" >GitHub & BitBucket HTML Preview</a> ||
 |<a href="https://www.gitignore.io/" target="_blank" >git ignore</a> |Create useful .gitignore files for your project based on OS's, IDE's or Programming Languages|
@@ -38,7 +34,6 @@ List of useful Softwares, Tools, Plugins, Utilities (Online/Offline)
 |<a href="https://www.sourcetreeapp.com/" target="_blank" >Sourcetree</a>|A free Git GUI client for Windows and Mac.|
 |<a href="http://cmder.net/" target="_blank" >cmder</a>|Portable console emulator for Windows.|
 |<a href="https://developers.google.com/web/tools/lighthouse/" target="_blank" >Lighthouse</a>|Lighthouse is an open-source, automated tool for improving the quality of web pages.|
-|<a href="https://marketplace.eclipse.org/content/ansi-escape-console" target="_blank" >ANSI Escape in Console</a>|This Eclipse plugin interprets the ANSI escape sequences to color the console output.|
 
 ### Data
 
@@ -63,6 +58,16 @@ List of useful Softwares, Tools, Plugins, Utilities (Online/Offline)
 |<a href="http://www.materialup.com/" target="_blank" >MaterialUp</a>|MaterialUp curates the best of Material Design| 
 |<a href="http://www.ios.uplabs.com/" target="_blank" >iOSUp</a>|iOSUp curates the best of iOS & OS X|
 |<a href="http://www.site.uplabs.com/" target="_blank" >SiteUp</a>|SiteUp curates the best of Web Design|
+
+### IDE's and Plugins
+
+| Tool  	|      Description     	|
+|----------	|:-------------	|
+|<a href="https://ideone.com/" target="_blank" >Ideone</a>|an online compiler and debugging tool which allows you to compile source code and execute it online in more than 60 programming languages.|
+|<a href="https://wakatime.com/" target="_blank" >WakaTime</a>|Quantify your coding. Metrics, insights, and time tracking automatically generated from your programming activity.|
+|<a href="https://codenvy.io" target="_blank" >Codenvy</a>|Self-service Eclipse Che workspaces.|
+|<a href="https://tio.run/#" target="_blank" >Try It Online</a>|Online compiler for several practical and recreational programming languages.|
+|<a href="https://marketplace.eclipse.org/content/ansi-escape-console" target="_blank" >ANSI Escape in Console</a>|This Eclipse plugin interprets the ANSI escape sequences to color the console output.|
 
 ### Virtualization
 
