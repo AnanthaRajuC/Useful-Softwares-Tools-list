@@ -1,31 +1,21 @@
-# Useful Softwares, Services, Tools list
+# Useful Softwares, Services, Tools, Plugins list
 List of Free and <a href="https://en.wikipedia.org/wiki/Open-source_software" target="_blank" >Open-source softwares</a>, Tools, Plugins, Utilities (Online/Offline)
 
 | Tool  	|      Description     	|
 |----------	|:------	|
-|<a href="http://requestb.in/" target="_blank" >RequestBin</a>|gives you a URL that will collect requests made to it and let you inspect them in a human-friendly way. Use RequestBin to see what your HTTP client is sending or to inspect and debug webhook requests.|
 |<a href="http://stackshare.io/" target="_blank" >stackshare</a>|Discover and discuss the best software tools and services.|
 |<a href="http://htmlpreview.github.io/" target="_blank" >GitHub & BitBucket HTML Preview</a> ||
 |<a href="https://www.gitignore.io/" target="_blank" >git ignore</a> |Create useful .gitignore files for your project based on OS's, IDE's or Programming Languages|
-|<a href="http://httpbin.org/" target="_blank" >httpbin</a>|HTTP Request & Response Service (Client Testing).|
-|<a href="https://httpstatuses.com/" target="_blank" >HTTP Status Codes</a>|an easy to reference database of HTTP Status Codes with their definitions and helpful code references all in one place.|
-|<a href="https://apigee.com/providers" target="_blank" >Apigee API Console</a>|Discover, Learn, Test, and Debug any API with interactive developer tools and documentation.|
 |<a href="http://apns-gcm.bryantan.info/" target="_blank" >APNS/GCM Online Tester</a>|Online tool to test Apple Push Notification service (APNS) and Google Cloud Messaging (GCM).|
 |<a href="http://codebeautify.org/" target="_blank" >CodeBeautify</a>|Online Tools like Beautifiers, Editors, Viewers, Minifier, Validators, Converters for Developers: XML, JSON, CSS, JavaScript, Java, C#, MXML, SQL, CSV, Excel.|
-|<a href="http://www.programmableweb.com/" target="_blank" >ProgrammableWeb</a>|The leading source of news & information about APIs, chronicling the evolution of the global API economy & providing the web's most relied-on API Directory.|
 |<a href="http://jsbin.com/" target="_blank" >JS Bin</a>|Open source collaborative web development debugging tool.|
-|<a href="http://www.downforeveryoneorjustme.com/" target="_blank" >down for everyone or just me</a>|Check if a website id down just for you or everyone.|
 |<a href="https://fonts.google.com/" target="_blank" >Google Fonts</a>|Discover Great Typography - Hundreds of free, open-source fonts optimized for the web.|
 |<a href="https://winscp.net/eng/index.php" target="_blank" >WinSCP</a>|an open source free SFTP client and FTP client for Windows. Its main function is the secure file transfer between local and remote computer.|
 |<a href="https://readthedocs.org/" target="_blank" >Read the Docs</a>|Read the Docs hosts documentation, making it fully searchable and easy to find. You can import your docs using any major version control system.|
 |<a href="https://asciinema.org/" target="_blank" >asciinema</a>|Free and open source solution for recording terminal sessions and sharing them on the web.|
 |<a href="https://coggle.it/" target="_blank" >Coggle</a>|A collaborative mind-mapping tool that helps you make sense of complex things.|
-|<a href="http://mockbin.com/" target="_blank" >Mockbin</a>|Mockbin allows you to generate custom endpoints to test, mock, and track HTTP requests & responses between libraries, sockets and APIs.|
-|<a href="https://apiembed.com/" target="_blank" >APIembed</a>|Embeddable API Code snippets - Auto-generated code snippets in many programming languages for your website, blog or API documentation.|
 |<a href="https://www.freeformatter.com/" target="_blank" >Free Formatter</a>|Tools include several formatters, validators, code minifiers, string escapers, encoders and decoders, message digesters, web resources and more.|
-|<a href="http://www.useragentstring.com/" target="_blank" >User Agent String</a>|Analyze User Agent of you browser or any other user agent string.|
 |<a href="https://loader.io/" target="_blank" >Loader</a>|Free load testing service that allows you to stress test your web-apps & apis with thousands of concurrent connections.|
-|<a href="https://www.statuspage.io/" target="_blank" >Statuspage</a>|Status and incident communication tool.|
 |<a href="https://bestpractices.coreinfrastructure.org/" target="_blank" >CII Best Practices Badge Program</a>|The Linux Foundation (LF) Core Infrastructure Initiative (CII) Best Practices badge is a way for Free/Libre and Open Source Software (FLOSS) projects to show that they follow best practices.|
 |<a href="https://github-profile-summary.com/search" target="_blank" >Github Profile Summary</a>|Tool for visualizing GitHub profiles.|
 |<a href="https://docusaurus.io/" target="_blank" >Docusaurus</a>|Easy to Maintain Open Source Documentation Websites.|
@@ -45,6 +35,22 @@ List of Free and <a href="https://en.wikipedia.org/wiki/Open-source_software" ta
 |<a href="https://github.com/kapilratnani/JSON-Viewer" target="_blank" >JSON viewer</a>|A JSON viewer plugin for notepad++. Displays the selected JSON string in a tree view.|
 |<a href="http://konklone.io/json/" target="_blank" >JSON to CSV Converter</a>|A free, in-browser JSON to CSV converter.|
 |<a href="http://json2table.com/" target="_blank" >JSON2table</a>|Tool to view JSON content in table and treeview format. The tool visually converts JSON to table and tree for easy navigation, analyze and validate JSON.|
+|<a href="http://www.useragentstring.com/" target="_blank" >User Agent String</a>|Analyze User Agent of you browser or any other user agent string.|
+
+### API's and Web Services
+
+| Tool  	|      Description     	|
+|----------	|:------	|
+|<a href="http://requestb.in/" target="_blank" >RequestBin</a>|gives you a URL that will collect requests made to it and let you inspect them in a human-friendly way. Use RequestBin to see what your HTTP client is sending or to inspect and debug webhook requests.|
+|<a href="http://httpbin.org/" target="_blank" >httpbin</a>|HTTP Request & Response Service (Client Testing).|
+|<a href="https://httpstatuses.com/" target="_blank" >HTTP Status Codes</a>|an easy to reference database of HTTP Status Codes with their definitions and helpful code references all in one place.|
+|<a href="https://apigee.com/providers" target="_blank" >Apigee API Console</a>|Discover, Learn, Test, and Debug any API with interactive developer tools and documentation.|
+|<a href="http://www.programmableweb.com/" target="_blank" >ProgrammableWeb</a>|The leading source of news & information about APIs, chronicling the evolution of the global API economy & providing the web's most relied-on API Directory.|
+|<a href="http://www.downforeveryoneorjustme.com/" target="_blank" >down for everyone or just me</a>|Check if a website id down just for you or everyone.|
+|<a href="http://mockbin.com/" target="_blank" >Mockbin</a>|Mockbin allows you to generate custom endpoints to test, mock, and track HTTP requests & responses between libraries, sockets and APIs.|
+|<a href="https://apiembed.com/" target="_blank" >APIembed</a>|Embeddable API Code snippets - Auto-generated code snippets in many programming languages for your website, blog or API documentation.|
+|<a href="https://www.statuspage.io/" target="_blank" >Statuspage</a>|Status and incident communication tool.|
+
 
 ### Design
 
