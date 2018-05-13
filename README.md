@@ -11,7 +11,6 @@ List of Free and <a href="https://en.wikipedia.org/wiki/Open-source_software" ta
 |<a href="https://httpstatuses.com/" target="_blank" >HTTP Status Codes</a>|an easy to reference database of HTTP Status Codes with their definitions and helpful code references all in one place.|
 |<a href="https://apigee.com/providers" target="_blank" >Apigee API Console</a>|Discover, Learn, Test, and Debug any API with interactive developer tools and documentation.|
 |<a href="http://apns-gcm.bryantan.info/" target="_blank" >APNS/GCM Online Tester</a>|Online tool to test Apple Push Notification service (APNS) and Google Cloud Messaging (GCM).|
-|<a href="http://www.tutorialspoint.com/codingground.htm" target="_blank" >Coding Ground - TutorialsPoint</a>|Code in almost all popular languages using Coding Ground. Edit, compile, execute and share your projects, 100% cloud.|
 |<a href="http://codebeautify.org/" target="_blank" >CodeBeautify</a>|Online Tools like Beautifiers, Editors, Viewers, Minifier, Validators, Converters for Developers: XML, JSON, CSS, JavaScript, Java, C#, MXML, SQL, CSV, Excel.|
 |<a href="http://www.programmableweb.com/" target="_blank" >ProgrammableWeb</a>|The leading source of news & information about APIs, chronicling the evolution of the global API economy & providing the web's most relied-on API Directory.|
 |<a href="http://jsbin.com/" target="_blank" >JS Bin</a>|Open source collaborative web development debugging tool.|
@@ -59,7 +58,7 @@ List of Free and <a href="https://en.wikipedia.org/wiki/Open-source_software" ta
 |<a href="http://www.ios.uplabs.com/" target="_blank" >iOSUp</a>|iOSUp curates the best of iOS & OS X|
 |<a href="http://www.site.uplabs.com/" target="_blank" >SiteUp</a>|SiteUp curates the best of Web Design|
 
-### IDE's and Plugins
+### IDE's (Online/Offline) and Plugins
 
 | Tool  	|      Description     	|
 |----------	|:-------------	|
@@ -67,6 +66,7 @@ List of Free and <a href="https://en.wikipedia.org/wiki/Open-source_software" ta
 |<a href="https://wakatime.com/" target="_blank" >WakaTime</a>|Quantify your coding. Metrics, insights, and time tracking automatically generated from your programming activity.|
 |<a href="https://codenvy.io" target="_blank" >Codenvy</a>|Self-service Eclipse Che workspaces.|
 |<a href="https://tio.run/#" target="_blank" >Try It Online</a>|Online compiler for several practical and recreational programming languages.|
+|<a href="http://www.tutorialspoint.com/codingground.htm" target="_blank" >Coding Ground - TutorialsPoint</a>|Code in almost all popular languages using Coding Ground. Edit, compile, execute and share your projects, 100% cloud.|
 |<a href="https://marketplace.eclipse.org/content/ansi-escape-console" target="_blank" >ANSI Escape in Console</a>|This Eclipse plugin interprets the ANSI escape sequences to color the console output.|
 
 ### Virtualization
