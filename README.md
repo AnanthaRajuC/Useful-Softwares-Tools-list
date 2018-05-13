@@ -79,6 +79,8 @@ List of Free and <a href="https://en.wikipedia.org/wiki/Open-source_software" ta
 |<a href="https://tio.run/#" target="_blank" >Try It Online</a>|Online compiler for several practical and recreational programming languages.|
 |<a href="http://www.tutorialspoint.com/codingground.htm" target="_blank" >Coding Ground - TutorialsPoint</a>|Code in almost all popular languages using Coding Ground. Edit, compile, execute and share your projects, 100% cloud.|
 |<a href="https://marketplace.eclipse.org/content/ansi-escape-console" target="_blank" >ANSI Escape in Console</a>|This Eclipse plugin interprets the ANSI escape sequences to color the console output.|
+|<a href="https://marketplace.eclipse.org/content/sonarlint" target="_blank" >SonarLint</a>|Provides on-the-fly feedback to developers on new bugs and quality issues injected into Java, JavaScript, Python and PHP code.|
+|<a href="https://marketplace.eclipse.org/content/spring-tools-aka-spring-ide-and-spring-tool-suite" target="_blank" >Spring Tools (aka Spring IDE and Spring Tool Suite)</a>|Eclipse-powered development environment for building Spring-powered enterprise applications.|
 
 ### Virtualization
 
