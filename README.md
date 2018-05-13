@@ -4,7 +4,6 @@ List of useful Softwares, Tools, Plugins, Utilities (Online/Offline)
 | Tool  	|      Description     	|
 |----------	|:------	|
 |<a href="http://requestb.in/" target="_blank" >RequestBin</a>|gives you a URL that will collect requests made to it and let you inspect them in a human-friendly way. Use RequestBin to see what your HTTP client is sending or to inspect and debug webhook requests.|
-|<a href="http://myjson.com/" target="_blank" >myjson</a>|A simple json storage and hosting service.|
 |<a href="https://wakatime.com/" target="_blank" >WakaTime</a>|Quantify your coding. Metrics, insights, and time tracking automatically generated from your programming activity.|
 |<a href="https://ideone.com/" target="_blank" >Ideone</a>|an online compiler and debugging tool which allows you to compile source code and execute it online in more than 60 programming languages.|
 |<a href="https://codenvy.io" target="_blank" >Codenvy</a>|Self-service Eclipse Che workspaces.|
@@ -16,15 +15,13 @@ List of useful Softwares, Tools, Plugins, Utilities (Online/Offline)
 |<a href="http://httpbin.org/" target="_blank" >httpbin</a>|HTTP Request & Response Service (Client Testing).|
 |<a href="https://httpstatuses.com/" target="_blank" >HTTP Status Codes</a>|an easy to reference database of HTTP Status Codes with their definitions and helpful code references all in one place.|
 |<a href="https://apigee.com/providers" target="_blank" >Apigee API Console</a>|Discover, Learn, Test, and Debug any API with interactive developer tools and documentation.|
-|<a href="http://konklone.io/json/" target="_blank" >JSON to CSV Converter</a>|A free, in-browser JSON to CSV converter.|
 |<a href="http://apns-gcm.bryantan.info/" target="_blank" >APNS/GCM Online Tester</a>|Online tool to test Apple Push Notification service (APNS) and Google Cloud Messaging (GCM).|
 |<a href="http://www.tutorialspoint.com/codingground.htm" target="_blank" >Coding Ground - TutorialsPoint</a>|Code in almost all popular languages using Coding Ground. Edit, compile, execute and share your projects, 100% cloud.|
 |<a href="http://codebeautify.org/" target="_blank" >CodeBeautify</a>|Online Tools like Beautifiers, Editors, Viewers, Minifier, Validators, Converters for Developers: XML, JSON, CSS, JavaScript, Java, C#, MXML, SQL, CSV, Excel.|
 |<a href="http://www.programmableweb.com/" target="_blank" >ProgrammableWeb</a>|The leading source of news & information about APIs, chronicling the evolution of the global API economy & providing the web's most relied-on API Directory.|
 |<a href="http://jsbin.com/" target="_blank" >JS Bin</a>|Open source collaborative web development debugging tool.|
-|<a href="https://github.com/kapilratnani/JSON-Viewer" target="_blank" >JSON viewer</a>|A JSON viewer plugin for notepad++. Displays the selected JSON string in a tree view.|
 |<a href="http://www.downforeveryoneorjustme.com/" target="_blank" >down for everyone or just me</a>|Check if a website id down just for you or everyone.|
-|<a href="http://www.downforeveryoneorjustme.com/" target="_blank" >Google Fonts</a>|Discover Great Typography - Hundreds of free, open-source fonts optimized for the web.|
+|<a href="https://fonts.google.com/" target="_blank" >Google Fonts</a>|Discover Great Typography - Hundreds of free, open-source fonts optimized for the web.|
 |<a href="https://winscp.net/eng/index.php" target="_blank" >WinSCP</a>|an open source free SFTP client and FTP client for Windows. Its main function is the secure file transfer between local and remote computer.|
 |<a href="https://readthedocs.org/" target="_blank" >Read the Docs</a>|Read the Docs hosts documentation, making it fully searchable and easy to find. You can import your docs using any major version control system.|
 |<a href="https://asciinema.org/" target="_blank" >asciinema</a>|Free and open source solution for recording terminal sessions and sharing them on the web.|
@@ -51,6 +48,9 @@ List of useful Softwares, Tools, Plugins, Utilities (Online/Offline)
 |<a href="http://academictorrents.com/" target="_blank" >Academic Torrents</a>|A distributed system for sharing enormous datasets for researchers, by researchers.|
 |<a href="https://www.mockaroo.com/" target="_blank" >Mockaroo</a>|Mockaroo lets you generate realistic test data in CSV, JSON, SQL, and Excel formats.|
 |<a href="https://dbeaver.jkiss.org/" target="_blank" >DBeaver</a>|Free multi-platform database tool for developers, SQL programmers, database administrators and analysts. Supports all popular databases: MySQL, PostgreSQL, MariaDB, SQLite, Oracle, DB2, SQL Server, Sybase, MS Access, Teradata, Firebird, Derby, etc.|
+|<a href="http://myjson.com/" target="_blank" >myjson</a>|A simple json storage and hosting service.|
+|<a href="https://github.com/kapilratnani/JSON-Viewer" target="_blank" >JSON viewer</a>|A JSON viewer plugin for notepad++. Displays the selected JSON string in a tree view.|
+|<a href="http://konklone.io/json/" target="_blank" >JSON to CSV Converter</a>|A free, in-browser JSON to CSV converter.|
 
 ### Design
 
