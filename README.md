@@ -1,5 +1,5 @@
 # Useful Softwares, Services, Tools, Plugins list
-List of Free and <a href="https://en.wikipedia.org/wiki/Open-source_software" target="_blank" >Open-source softwares</a>, Tools, Plugins, Utilities (Online/Offline)
+List of Free and <a href="https://en.wikipedia.org/wiki/Open-source_software" target="_blank" >Open-source softwares</a>, Tools, Plugins, Utilities and services (Online/Offline)
 
 | Tool  	|      Description     	|
 |----------	|:------	|
@@ -19,6 +19,13 @@ List of Free and <a href="https://en.wikipedia.org/wiki/Open-source_software" ta
 |<a href="https://bestpractices.coreinfrastructure.org/" target="_blank" >CII Best Practices Badge Program</a>|The Linux Foundation (LF) Core Infrastructure Initiative (CII) Best Practices badge is a way for Free/Libre and Open Source Software (FLOSS) projects to show that they follow best practices.|
 |<a href="https://developers.google.com/web/tools/lighthouse/" target="_blank" >Lighthouse</a>|Lighthouse is an open-source, automated tool for improving the quality of web pages.|
 |<a href="http://patorjk.com/software/taag/" target="_blank" >TAAG</a>|Text to ASCII art generator.|
+
+### Platform as a Service (PaaS)
+
+| Tool  	|      Description     	|
+|----------	|:------	|
+|<a href="https://www.heroku.com/" target="_blank" >Heroku</a>|Heroku is a cloud platform that lets companies build, deliver, monitor and scale apps — we're the fastest way to go from idea to URL, bypassing all those infrastructure headaches.|
+|<a href="https://aws.amazon.com/" target="_blank" >Amazon Web Services</a>|Amazon Web Services (AWS) is a secure cloud services platform, offering compute power, database storage, content delivery and other functionality to help businesses scale and grow.|
 
 ### Version control
 
