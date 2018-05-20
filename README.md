@@ -21,12 +21,14 @@ List of Free and <a href="https://en.wikipedia.org/wiki/Open-source_software" ta
 |<a href="http://patorjk.com/software/taag/" target="_blank" >TAAG</a>|Text to ASCII art generator.|
 
 ### Platform as a Service (PaaS)
+###### Free Tier
 
 | Tool  	|      Description     	|
 |----------	|:------	|
 |<a href="https://www.heroku.com/" target="_blank" >Heroku</a>|Heroku is a cloud platform that lets companies build, deliver, monitor and scale apps — we're the fastest way to go from idea to URL, bypassing all those infrastructure headaches.|
 |<a href="https://aws.amazon.com/" target="_blank" >Amazon Web Services</a>|Amazon Web Services (AWS) is a secure cloud services platform, offering compute power, database storage, content delivery and other functionality to help businesses scale and grow.|
 |<a href="https://mlab.com/" target="_blank" >mLab</a>|mLab is a Database-as-a-Service for MongoDB|
+|<a href="https://www.netlify.com/" target="_blank" >Netlify</a>|Build, deploy, and manage modern web projects.|
 
 ### Version control
 
