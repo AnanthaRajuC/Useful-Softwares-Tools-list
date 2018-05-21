@@ -19,6 +19,7 @@ List of Free and <a href="https://en.wikipedia.org/wiki/Open-source_software" ta
 |<a href="https://bestpractices.coreinfrastructure.org/" target="_blank" >CII Best Practices Badge Program</a>|The Linux Foundation (LF) Core Infrastructure Initiative (CII) Best Practices badge is a way for Free/Libre and Open Source Software (FLOSS) projects to show that they follow best practices.|
 |<a href="https://developers.google.com/web/tools/lighthouse/" target="_blank" >Lighthouse</a>|Lighthouse is an open-source, automated tool for improving the quality of web pages.|
 |<a href="http://patorjk.com/software/taag/" target="_blank" >TAAG</a>|Text to ASCII art generator.|
+|<a href="https://fossa.io/" target="_blank" >FOSSA</a>|Dependency tracking, license compliance and attribution notices on autopilot|
 
 ### Platform as a Service (PaaS)
 ###### Free Tier
