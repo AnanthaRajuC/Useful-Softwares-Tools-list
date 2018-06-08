@@ -69,7 +69,7 @@ List of Free and <a href="https://en.wikipedia.org/wiki/Open-source_software" ta
 |<a href="http://mockbin.com/" target="_blank" >Mockbin</a>|Mockbin allows you to generate custom endpoints to test, mock, and track HTTP requests & responses between libraries, sockets and APIs.|
 |<a href="https://apiembed.com/" target="_blank" >APIembed</a>|Embeddable API Code snippets - Auto-generated code snippets in many programming languages for your website, blog or API documentation.|
 |<a href="https://www.statuspage.io/" target="_blank" >Statuspage</a>|Status and incident communication tool.|
-
+|<a href="https://rapidapi.com/" target="_blank" >Rapid API</a>|RapidAPI is the world’s largest API marketplace.|
 
 ### Design
 
