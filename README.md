@@ -133,6 +133,7 @@ Living document containing a list of free and <a href="https://en.wikipedia.org/
 |<a href="https://chrome.google.com/webstore/detail/clear-cache/cppjkneekbjaeellbfkmgnhonkkjfpdn" target="_blank" >Clear Cache</a>|Clear your cache and browsing data with a single click of a button.|
 |<a href="https://chrome.google.com/webstore/detail/speedtest-by-ookla/pgjjikdiikihdfpoppgaidccahalehjh" target="_blank" >Speedtest by Ookla</a>|Take a Speedtest directly from your Google Chrome toolbar to quickly test your internet performance.|
 |<a href="http://tampermonkey.net/" target="_blank" >Tampermonkey</a>|userscript manager, with over 10 million users. It's available for Chrome, Microsoft Edge, Safari, Opera Next, and Firefox.|
+|<a href="https://github.com/harshjv/github-repo-size" target="_blank" >GitHub Repository Size</a>|Automatically adds repository size to GitHub's repository summary|
  
 
 ### Fiddles
