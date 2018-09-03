@@ -135,6 +135,7 @@ Living document containing a list of free and <a href="https://en.wikipedia.org/
 |<a href="http://tampermonkey.net/" target="_blank" >Tampermonkey</a>|userscript manager, with over 10 million users. It's available for Chrome, Microsoft Edge, Safari, Opera Next, and Firefox.|
 |<a href="https://github.com/harshjv/github-repo-size" target="_blank" >GitHub Repository Size</a>|Automatically adds repository size to GitHub's repository summary|
  |<a href="https://chrome.google.com/webstore/detail/livereload/jnihajbhpnppcggbcgedagnkighmdlei?hl=en" target="_blank" >LiveReload</a>|LiveReload monitors changes in the file system. As soon as you save a file, it is preprocessed as needed, and the browser is refreshed|
+  |<a href="https://chrome.google.com/webstore/detail/devdocs/mnfehgbmkapmjnhcnbodoamcioleeooe?hl=en" target="_blank" >DevDocs</a>|All-in-one, offline API documentation browser with a fast, organized, and searchable interface.|
 
 ### Fiddles
 
