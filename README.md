@@ -114,10 +114,11 @@ Living document containing a list of free and <a href="https://en.wikipedia.org/
 |<a href="https://brave.com/" target="_blank" >brave</a>|A free browser, automatically blocks ads and trackers, making it faster and safer|
   
 
-### Web Broswer Plugins
+### Web Browser Plugins
 
 | Tool  	|      Description     	|
 |----------	|:------------	|
+|<a href="https://www.checkbot.io" target="_blank" >Checkbot</a>|Browser extension that tests if your website follows 50+ SEO, speed and security best practices. Crawls your site checking multiple pages at once.|
 |<a href="https://chrome.google.com/webstore/detail/isometric-contributions/mjoedlfflcchnleknnceiplgaeoegien" target="_blank" >Isometric Contributions</a>|This extension allows you to toggle between the normal GitHub contribution chart and an isometric pixel art version.|
 |<a href="http://getfireshot.com/" target="_blank" >FireShot</a>|Capture full web page screenshots in Firefox, Chrome, Opera or IE, and then edit and save them.|
 |<a href="http://fvdspeeddial.com/" target="_blank" >FVD Speed Dial</a>|Tool for saving and organizing the links to your favorite sites.|
