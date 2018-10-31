@@ -22,6 +22,7 @@ Living document containing a list of free and <a href="https://en.wikipedia.org/
 |<a href="https://fossa.io/" target="_blank" >FOSSA</a>|Dependency tracking, license compliance and attribution notices on autopilot|
 |<a href="https://semver.org/" target="_blank" >Semantic Versioning 2.0.0</a>|Versioning Guidelines.|
 |<a href="https://www.openproject.org/" target="_blank" >OpenProject</a>|Open source project management software.|
+|<a href="https://www.putty.org/" target="_blank" >PuTTY</a>|PuTTY is an SSH and telnet client, developed originally by Simon Tatham for the Windows platform.|
 
 ### Platform as a Service (PaaS)
 ###### Free Tier
