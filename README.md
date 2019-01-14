@@ -34,6 +34,13 @@ Living document containing a list of free and <a href="https://en.wikipedia.org/
 |<a href="https://mlab.com/" target="_blank" >mLab</a>|mLab is a Database-as-a-Service for MongoDB|
 |<a href="https://www.netlify.com/" target="_blank" >Netlify</a>|Build, deploy, and manage modern web projects.|
 
+### Command Line Tools
+
+| Tool  	|      Description     	|
+|----------	|:------	|
+|<a href="https://curl.haxx.se/" target="_blank" >Curl</a>|command line tool and library for transferring data with URLs.|
+|<a href="https://stedolan.github.io/jq/" target="_blank" >jq</a>|Lightweight and flexible command-line JSON processor.|
+
 ### Version control
 
 | Tool  	|      Description     	|
