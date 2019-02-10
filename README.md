@@ -13,7 +13,6 @@ Living document containing a list of free and <a href="https://en.wikipedia.org/
 |<a href="https://readthedocs.org/" target="_blank" >Read the Docs</a>|Read the Docs hosts documentation, making it fully searchable and easy to find. You can import your docs using any major version control system.|
 |<a href="https://docusaurus.io/" target="_blank" >Docusaurus</a>|Easy to Maintain Open Source Documentation Websites.|
 |<a href="https://asciinema.org/" target="_blank" >asciinema</a>|Free and open source solution for recording terminal sessions and sharing them on the web.|
-|<a href="http://cmder.net/" target="_blank" >cmder</a>|Portable console emulator for Windows.|
 |<a href="https://coggle.it/" target="_blank" >Coggle</a>|A collaborative mind-mapping tool that helps you make sense of complex things.|
 |<a href="https://loader.io/" target="_blank" >Loader</a>|Free load testing service that allows you to stress test your web-apps & apis with thousands of concurrent connections.|
 |<a href="https://bestpractices.coreinfrastructure.org/" target="_blank" >CII Best Practices Badge Program</a>|The Linux Foundation (LF) Core Infrastructure Initiative (CII) Best Practices badge is a way for Free/Libre and Open Source Software (FLOSS) projects to show that they follow best practices.|
@@ -40,6 +39,7 @@ Living document containing a list of free and <a href="https://en.wikipedia.org/
 |----------	|:------	|
 |<a href="https://curl.haxx.se/" target="_blank" >Curl</a>|command line tool and library for transferring data with URLs.|
 |<a href="https://stedolan.github.io/jq/" target="_blank" >jq</a>|Lightweight and flexible command-line JSON processor.|
+|<a href="http://cmder.net/" target="_blank" >cmder</a>|Portable console emulator for Windows.|
 
 ### Version control
 
