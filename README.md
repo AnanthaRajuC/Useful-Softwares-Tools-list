@@ -150,6 +150,7 @@ Living document containing a list of free and <a href="https://en.wikipedia.org/
 |<a href="https://chrome.google.com/webstore/detail/livereload/jnihajbhpnppcggbcgedagnkighmdlei?hl=en" target="_blank" >LiveReload</a>|LiveReload monitors changes in the file system. As soon as you save a file, it is preprocessed as needed, and the browser is refreshed|
 |<a href="https://chrome.google.com/webstore/detail/devdocs/mnfehgbmkapmjnhcnbodoamcioleeooe?hl=en" target="_blank" >DevDocs</a>|All-in-one, offline API documentation browser with a fast, organized, and searchable interface.|
 |<a href="https://about.sourcegraph.com/" target="_blank" >sourcegraph</a>|Code navigation engine.|
+|<a href="https://www.octotree.io/" target="_blank" >Octotree</a>|Navigate code on GitHub with ease.|
 
 ### Fiddles
 
