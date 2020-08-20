@@ -24,7 +24,6 @@ Living document containing a list of free and <a href="https://en.wikipedia.org/
 |<a href="https://www.putty.org/" target="_blank" >PuTTY</a>|PuTTY is an SSH and telnet client, developed originally by Simon Tatham for the Windows platform.|
 |<a href="https://www.freepik.com/" target="_blank" >freepik</a>|Graphic resources for everyone. Find Free Vectors, Stock Photos, PSD and Icons.|
 |<a href="http://keystore-explorer.org/index.html" target="_blank" >KeyStore Explorer</a>|Open source GUI replacement for the Java command-line utilities keytool and jarsigner.|
-|<a href="https://github.com/DavidAnson/markdownlint" target="_blank" >markdownlint</a>|markdown lint.|
 
 ### Platform as a Service (PaaS)
 ###### Free Tier
@@ -35,6 +34,14 @@ Living document containing a list of free and <a href="https://en.wikipedia.org/
 |<a href="https://aws.amazon.com/" target="_blank" >Amazon Web Services</a>|Amazon Web Services (AWS) is a secure cloud services platform, offering compute power, database storage, content delivery and other functionality to help businesses scale and grow.|
 |<a href="https://mlab.com/" target="_blank" >mLab</a>|mLab is a Database-as-a-Service for MongoDB|
 |<a href="https://www.netlify.com/" target="_blank" >Netlify</a>|Build, deploy, and manage modern web projects.|
+
+### Markdown
+
+| Tool  	|      Description     	|
+|----------	|:------	|
+|<a href="https://marketplace.visualstudio.com/items?itemName=yzane.markdown-pdf" target="_blank" >Markdown PDF</a>|This Visual Studio Code extension convert Markdown file to pdf, html, png or jpeg file.|
+|<a href="https://github.com/DavidAnson/markdownlint" target="_blank" >markdownlint</a>|markdown lint.|
+|<a href="https://ecotrust-canada.github.io/markdown-toc/" target="_blank" >markdown-toc</a>|Markdown Table of Contents generator|
 
 ### Command Line Tools
 
@@ -112,7 +119,6 @@ Living document containing a list of free and <a href="https://en.wikipedia.org/
 |<a href="https://marketplace.eclipse.org/content/sonarlint" target="_blank" >SonarLint</a>|Provides on-the-fly feedback to developers on new bugs and quality issues injected into Java, JavaScript, Python and PHP code.|
 |<a href="https://marketplace.eclipse.org/content/spring-tools-aka-spring-ide-and-spring-tool-suite" target="_blank" >Spring Tools (aka Spring IDE and Spring Tool Suite)</a>|Eclipse-powered development environment for building Spring-powered enterprise applications.|
 |<a href="https://devops.datenkollektiv.de/banner.txt/index.html" target="_blank" >Online Spring Boot Banner Generator</a>|Online Spring Boot Banner Generator.|
-|<a href="https://marketplace.visualstudio.com/items?itemName=yzane.markdown-pdf" target="_blank" >Markdown PDF</a>|This Visual Studio Code extension convert Markdown file to pdf, html, png or jpeg file.|
 |<a href="https://www.gitpod.io/" target="_blank" >Gitpod</a>|One-Click Online IDE for GitHub|
 
 ### Virtualization
