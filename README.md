@@ -42,6 +42,7 @@ Living document containing a list of free and <a href="https://en.wikipedia.org/
 |<a href="https://marketplace.visualstudio.com/items?itemName=yzane.markdown-pdf" target="_blank" >Markdown PDF</a>|This Visual Studio Code extension convert Markdown file to pdf, html, png or jpeg file.|
 |<a href="https://github.com/DavidAnson/markdownlint" target="_blank" >markdownlint</a>|markdown lint.|
 |<a href="https://ecotrust-canada.github.io/markdown-toc/" target="_blank" >markdown-toc</a>|Markdown Table of Contents generator|
+|<a href="https://markdowntohtml.com/" target="_blank" >Markdown to HTML Converter</a>|Markdown to HTML Converter.|
 
 ### Command Line Tools
 
