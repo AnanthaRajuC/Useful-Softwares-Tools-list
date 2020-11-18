@@ -24,6 +24,8 @@ Living document containing a list of free and <a href="https://en.wikipedia.org/
 |<a href="https://www.putty.org/" target="_blank" >PuTTY</a>|PuTTY is an SSH and telnet client, developed originally by Simon Tatham for the Windows platform.|
 |<a href="https://www.freepik.com/" target="_blank" >freepik</a>|Graphic resources for everyone. Find Free Vectors, Stock Photos, PSD and Icons.|
 |<a href="http://keystore-explorer.org/index.html" target="_blank" >KeyStore Explorer</a>|Open source GUI replacement for the Java command-line utilities keytool and jarsigner.|
+|<a href="https://asciidoclive.com/" target="_blank" >asciidocLIVE</a>|Online AsciiDoc editor.|
+|<a href="https://foliovision.com/seo-tools/pandoc-online#" target="_blank" >foliovision</a>|Convert between HTML, HTML5, Latex, Markdown, Textile, ASCII, ODT, text, RTF, mediawiki.|
 
 ### Platform as a Service (PaaS)
 ###### Free Tier
