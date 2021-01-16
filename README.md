@@ -47,6 +47,7 @@ Living document containing a list of free and <a href="https://en.wikipedia.org/
 |<a href="https://github.com/DavidAnson/markdownlint" target="_blank" >markdownlint</a>|markdown lint.|
 |<a href="https://ecotrust-canada.github.io/markdown-toc/" target="_blank" >markdown-toc</a>|Markdown Table of Contents generator|
 |<a href="https://markdowntohtml.com/" target="_blank" >Markdown to HTML Converter</a>|Markdown to HTML Converter.|
+|<a href="https://github.com/matiassingers/awesome-readme" target="_blank" >Awesome README</a>|Elements in beautiful READMEs include, but are not limited to: images, screenshots, GIFs, text formatting, etc.|
 
 ### Command Line Tools
 
