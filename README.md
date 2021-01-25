@@ -28,6 +28,7 @@ Living document containing a list of free and <a href="https://en.wikipedia.org/
 |<a href="https://foliovision.com/seo-tools/pandoc-online#" target="_blank" >foliovision</a>|Convert between HTML, HTML5, Latex, Markdown, Textile, ASCII, ODT, text, RTF, mediawiki.|
 |<a href="https://mailslurper.com/" target="_blank" >MailSlurper</a>|SMTP mail server useful for local and team application development.|
 |<a href="http://label-schema.org/rc1/" target="_blank" >Label Schema</a>|Convention for a standardised way to express (Docker) container labels.|
+|<a href="https://chooser-beta.creativecommons.org/" target="_blank" >LICENSE CHOOSER</a>|helps select the appropriate license for your work.|
 
 ### Platform as a Service (PaaS)
 ###### Free Tier
