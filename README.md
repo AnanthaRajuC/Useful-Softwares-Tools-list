@@ -24,11 +24,10 @@ Living document containing a list of free and <a href="https://en.wikipedia.org/
 |<a href="https://www.putty.org/" target="_blank" >PuTTY</a>|PuTTY is an SSH and telnet client, developed originally by Simon Tatham for the Windows platform.|
 |<a href="https://www.freepik.com/" target="_blank" >freepik</a>|Graphic resources for everyone. Find Free Vectors, Stock Photos, PSD and Icons.|
 |<a href="http://keystore-explorer.org/index.html" target="_blank" >KeyStore Explorer</a>|Open source GUI replacement for the Java command-line utilities keytool and jarsigner.|
-|<a href="https://asciidoclive.com/" target="_blank" >asciidocLIVE</a>|Online AsciiDoc editor.|
-|<a href="https://foliovision.com/seo-tools/pandoc-online#" target="_blank" >foliovision</a>|Convert between HTML, HTML5, Latex, Markdown, Textile, ASCII, ODT, text, RTF, mediawiki.|
 |<a href="https://mailslurper.com/" target="_blank" >MailSlurper</a>|SMTP mail server useful for local and team application development.|
 |<a href="http://label-schema.org/rc1/" target="_blank" >Label Schema</a>|Convention for a standardised way to express (Docker) container labels.|
 |<a href="https://chooser-beta.creativecommons.org/" target="_blank" >LICENSE CHOOSER</a>|helps select the appropriate license for your work.|
+|<a href="https://github.com/kettanaito/naming-cheatsheet" target="_blank" >Naming Cheatsheet</a>|Comprehensive language-agnostic guidelines on variables naming.|
 
 ### Platform as a Service (PaaS)
 ###### Free Tier
@@ -40,7 +39,7 @@ Living document containing a list of free and <a href="https://en.wikipedia.org/
 |<a href="https://mlab.com/" target="_blank" >mLab</a>|mLab is a Database-as-a-Service for MongoDB|
 |<a href="https://www.netlify.com/" target="_blank" >Netlify</a>|Build, deploy, and manage modern web projects.|
 
-### Markdown
+### Markdown & Other Text Editors
 
 | Tool  	|      Description     	|
 |----------	|:------	|
@@ -49,6 +48,8 @@ Living document containing a list of free and <a href="https://en.wikipedia.org/
 |<a href="https://ecotrust-canada.github.io/markdown-toc/" target="_blank" >markdown-toc</a>|Markdown Table of Contents generator|
 |<a href="https://markdowntohtml.com/" target="_blank" >Markdown to HTML Converter</a>|Markdown to HTML Converter.|
 |<a href="https://github.com/matiassingers/awesome-readme" target="_blank" >Awesome README</a>|Elements in beautiful READMEs include, but are not limited to: images, screenshots, GIFs, text formatting, etc.|
+|<a href="https://asciidoclive.com/" target="_blank" >asciidocLIVE</a>|Online AsciiDoc editor.|
+|<a href="https://foliovision.com/seo-tools/pandoc-online#" target="_blank" >foliovision</a>|Convert between HTML, HTML5, Latex, Markdown, Textile, ASCII, ODT, text, RTF, mediawiki.|
 
 ### Command Line Tools
 
