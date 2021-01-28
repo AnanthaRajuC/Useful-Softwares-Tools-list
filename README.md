@@ -70,6 +70,7 @@ Living document containing a list of free and <a href="https://en.wikipedia.org/
 |<a href="https://www.gitignore.io/" target="_blank" >git ignore</a> |Create useful .gitignore files for your project based on OS's, IDE's or Programming Languages|
 |<a href="https://badgen.net/" target="_blank" >Badgen</a>|Badge generating service.|
 |<a href="https://shields.io/" target="_blank" >shields</a>|Service for badges in SVG and raster format, which can be included in GitHub readmes or any other web page.|
+|<a href="https://github.com/mnapoli/IsItMaintained" target="_blank" >IsItMaintained</a>|Monitor open source projects activity.|
 
 ### Data
 
