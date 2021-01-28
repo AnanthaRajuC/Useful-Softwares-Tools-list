@@ -28,6 +28,7 @@ Living document containing a list of free and <a href="https://en.wikipedia.org/
 |<a href="http://label-schema.org/rc1/" target="_blank" >Label Schema</a>|Convention for a standardised way to express (Docker) container labels.|
 |<a href="https://chooser-beta.creativecommons.org/" target="_blank" >LICENSE CHOOSER</a>|helps select the appropriate license for your work.|
 |<a href="https://github.com/kettanaito/naming-cheatsheet" target="_blank" >Naming Cheatsheet</a>|Comprehensive language-agnostic guidelines on variables naming.|
+|<a href="https://github.com/ikatyang/emoji-cheat-sheet" target="_blank" >emoji-cheat-sheet</a>|A markdown version emoji cheat sheet.|
 
 ### Platform as a Service (PaaS)
 ###### Free Tier
