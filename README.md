@@ -47,6 +47,7 @@ Living document containing a list of free and <a href="https://en.wikipedia.org/
 |<a href="https://marketplace.visualstudio.com/items?itemName=yzane.markdown-pdf" target="_blank" >Markdown PDF</a>|This Visual Studio Code extension convert Markdown file to pdf, html, png or jpeg file.|
 |<a href="https://marketplace.visualstudio.com/items?itemName=auchenberg.vscode-browser-preview" target="_blank" >Browser Preview</a>|A real browser preview inside your editor that you can debug.|
 |<a href="https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer" target="_blank" >Live Server</a>|Launch a development local Server with live reload feature for static & dynamic pages.|
+|<a href="https://marketplace.visualstudio.com/items?itemName=formulahendry.code-runner" target="_blank" >Code Runner</a>|Run code snippet or code file for multiple languages.|
 
 ### Markdown & Other Text Editors
 
