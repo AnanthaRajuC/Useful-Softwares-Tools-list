@@ -40,11 +40,18 @@ Living document containing a list of free and <a href="https://en.wikipedia.org/
 |<a href="https://mlab.com/" target="_blank" >mLab</a>|mLab is a Database-as-a-Service for MongoDB|
 |<a href="https://www.netlify.com/" target="_blank" >Netlify</a>|Build, deploy, and manage modern web projects.|
 
+### Visual Studio Code Extensions
+
+|   Tool  	|  Description |
+|----------	|:------------ |
+|<a href="https://marketplace.visualstudio.com/items?itemName=yzane.markdown-pdf" target="_blank" >Markdown PDF</a>|This Visual Studio Code extension convert Markdown file to pdf, html, png or jpeg file.|
+|<a href="https://marketplace.visualstudio.com/items?itemName=auchenberg.vscode-browser-preview" target="_blank" >Browser Preview</a>|A real browser preview inside your editor that you can debug.|
+|<a href="https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer" target="_blank" >Live Server</a>|Launch a development local Server with live reload feature for static & dynamic pages.|
+
 ### Markdown & Other Text Editors
 
 | Tool  	|      Description     	|
 |----------	|:------	|
-|<a href="https://marketplace.visualstudio.com/items?itemName=yzane.markdown-pdf" target="_blank" >Markdown PDF</a>|This Visual Studio Code extension convert Markdown file to pdf, html, png or jpeg file.|
 |<a href="https://github.com/DavidAnson/markdownlint" target="_blank" >markdownlint</a>|markdown lint.|
 |<a href="https://ecotrust-canada.github.io/markdown-toc/" target="_blank" >markdown-toc</a>|Markdown Table of Contents generator|
 |<a href="https://markdowntohtml.com/" target="_blank" >Markdown to HTML Converter</a>|Markdown to HTML Converter.|
