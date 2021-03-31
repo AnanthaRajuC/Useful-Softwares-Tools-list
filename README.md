@@ -4,10 +4,10 @@ Living document containing a list of free and <a href="https://en.wikipedia.org/
 - [Fiddles](./Fiddles.md)
 - [Linux](./Linux.md)
 - [Web Browsers and Plugins](./Web-Browsers-and-Plugins.md)
+- [Reading and Reference](./Reference-and-Reference.md)
 
 | Tool  	|      Description     	|
 |----------	|:------	|
-|<a href="http://stackshare.io/" target="_blank" >stackshare</a>|Discover and discuss the best software tools and services.|
 |<a href="http://apns-gcm.bryantan.info/" target="_blank" >APNS/GCM Online Tester</a>|Online tool to test Apple Push Notification service (APNS) and Google Cloud Messaging (GCM).|
 |<a href="http://codebeautify.org/" target="_blank" >CodeBeautify</a>|Online Tools like Beautifiers, Editors, Viewers, Minifier, Validators, Converters for Developers: XML, JSON, CSS, JavaScript, Java, C#, MXML, SQL, CSV, Excel.|
 |<a href="https://www.freeformatter.com/" target="_blank" >Free Formatter</a>|Tools include several formatters, validators, code minifiers, string escapers, encoders and decoders, message digesters, web resources and more.|
@@ -23,13 +23,10 @@ Living document containing a list of free and <a href="https://en.wikipedia.org/
 |<a href="https://developers.google.com/web/tools/lighthouse/" target="_blank" >Lighthouse</a>|Lighthouse is an open-source, automated tool for improving the quality of web pages.|
 |<a href="http://patorjk.com/software/taag/" target="_blank" >TAAG</a>|Text to ASCII art generator.|
 |<a href="https://fossa.io/" target="_blank" >FOSSA</a>|Dependency tracking, license compliance and attribution notices on autopilot|
-|<a href="https://semver.org/" target="_blank" >Semantic Versioning 2.0.0</a>|Versioning Guidelines.|
 |<a href="https://www.openproject.org/" target="_blank" >OpenProject</a>|Open source project management software.|
 |<a href="https://www.putty.org/" target="_blank" >PuTTY</a>|PuTTY is an SSH and telnet client, developed originally by Simon Tatham for the Windows platform.|
 |<a href="https://www.freepik.com/" target="_blank" >freepik</a>|Graphic resources for everyone. Find Free Vectors, Stock Photos, PSD and Icons.|
 |<a href="https://mailslurper.com/" target="_blank" >MailSlurper</a>|SMTP mail server useful for local and team application development.|
-|<a href="http://label-schema.org/rc1/" target="_blank" >Label Schema</a>|Convention for a standardised way to express (Docker) container labels.|
-|<a href="https://chooser-beta.creativecommons.org/" target="_blank" >LICENSE CHOOSER</a>|helps select the appropriate license for your work.|
 |<a href="https://github.com/kettanaito/naming-cheatsheet" target="_blank" >Naming Cheatsheet</a>|Comprehensive language-agnostic guidelines on variables naming.|
 |<a href="https://github.com/ikatyang/emoji-cheat-sheet" target="_blank" >emoji-cheat-sheet</a>|A markdown version emoji cheat sheet.|
 
@@ -109,9 +106,7 @@ Living document containing a list of free and <a href="https://en.wikipedia.org/
 |<a href="http://httpbin.org/" target="_blank" >httpbin</a>|HTTP Request & Response Service (Client Testing).|
 |<a href="https://reqres.in/" target="_blank" >REQ|RES</a>|A hosted REST-API ready to respond to your AJAX requests.|
 |<a href="https://postb.in/" target="_blank" >PostBin</a>|Programatically Test your API Clients or Webhooks|
-|<a href="https://httpstatuses.com/" target="_blank" >HTTP Status Codes</a>|an easy to reference database of HTTP Status Codes with their definitions and helpful code references all in one place.|
 |<a href="https://apigee.com/providers" target="_blank" >Apigee API Console</a>|Discover, Learn, Test, and Debug any API with interactive developer tools and documentation.|
-|<a href="http://www.programmableweb.com/" target="_blank" >ProgrammableWeb</a>|The leading source of news & information about APIs, chronicling the evolution of the global API economy & providing the web's most relied-on API Directory.|
 |<a href="http://www.downforeveryoneorjustme.com/" target="_blank" >down for everyone or just me</a>|Check if a website id down just for you or everyone.|
 |<a href="http://mockbin.com/" target="_blank" >Mockbin</a>|Mockbin allows you to generate custom endpoints to test, mock, and track HTTP requests & responses between libraries, sockets and APIs.|
 |<a href="https://apiembed.com/" target="_blank" >APIembed</a>|Embeddable API Code snippets - Auto-generated code snippets in many programming languages for your website, blog or API documentation.|
@@ -210,10 +205,7 @@ Living document containing a list of free and <a href="https://en.wikipedia.org/
 |----------	|:------	|
 |<a href="https://www.katacoda.com/" target="_blank" >Katacoda</a>|Interactive Learning Platform for Software Engineers.|
 |<a href="https://howsecureismypassword.net/" target="_blank" >HOW SECURE IS MY PASSWORD?</a>|Password strength meter.|
-|<a href="https://dzone.com/" target="_blank" >DZone</a>|Community and publisher of technical content for software professionals.|
 |<a href="https://www.gitbook.com/" target="_blank" >GitBook</a>|GitBook helps your team write, collaborate and publish content online.|
-|<a href="https://www.codeproject.com/" target="_blank" >CodeProject</a>|Free source code and tutorials for Windows developers. Programming help for Visual Basic.Net and other .Net family languages.|
-|<a href="https://choosealicense.com/" target="_blank" >choosealicense</a>|A site to provide non-judgmental guidance on choosing a license for your open source project.|
 |<a href="http://www.devopsbookmarks.com/" target="_blank" >DevOps Bookmarks</a>|Discover tools and frameworks in the DevOps landscape.|
 |<a href="http://www.algomation.com/" target="_blank" >Algomation</a>|a platform for viewing, creating and sharing any type of algorithm.|
 |<a href="https://anvaka.github.io/common-words/#?lang=js" target="_blank" >Common Words</a>|visualization of common words in different programming languages.|
