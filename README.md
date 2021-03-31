@@ -27,8 +27,6 @@ Living document containing a list of free and <a href="https://en.wikipedia.org/
 |<a href="https://www.putty.org/" target="_blank" >PuTTY</a>|PuTTY is an SSH and telnet client, developed originally by Simon Tatham for the Windows platform.|
 |<a href="https://www.freepik.com/" target="_blank" >freepik</a>|Graphic resources for everyone. Find Free Vectors, Stock Photos, PSD and Icons.|
 |<a href="https://mailslurper.com/" target="_blank" >MailSlurper</a>|SMTP mail server useful for local and team application development.|
-|<a href="https://github.com/kettanaito/naming-cheatsheet" target="_blank" >Naming Cheatsheet</a>|Comprehensive language-agnostic guidelines on variables naming.|
-|<a href="https://github.com/ikatyang/emoji-cheat-sheet" target="_blank" >emoji-cheat-sheet</a>|A markdown version emoji cheat sheet.|
 
 ### Platform as a Service (PaaS)
 ###### Free Tier
