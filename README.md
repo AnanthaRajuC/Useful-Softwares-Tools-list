@@ -3,7 +3,7 @@ Living document containing a list of free and <a href="https://en.wikipedia.org/
 
 - [Fiddles](./Fiddles.md)
 - [Linux](./Linux.md)
-- [Web Browsers and Plugins](./Web-Browsers-and-Plugins.md)
+- [Web Technologies](./Web-Technologies.md)
 - [Reading and Reference](./Reading-and-Reference.md)
 
 | Tool  	|      Description     	|
@@ -168,6 +168,7 @@ Living document containing a list of free and <a href="https://en.wikipedia.org/
 |<a href="https://github.com/skylot/jadx" target="_blank" >jadx - Dex to Java decompiler</a>|Command line and GUI tools for produce Java source code from Android Dex and Apk files.|
 |<a href="https://github.com/skylot/jadxhttps://bytecodeviewer.com/" target="_blank" >Bytecode Viewer</a>|A Java 8 Jar & Android APK Reverse Engineering Suite (Decompiler, Editor, Debugger & More).|
 |<a href="http://keystore-explorer.org/index.html" target="_blank" >KeyStore Explorer</a>|Open source GUI replacement for the Java command-line utilities keytool and jarsigner.|
+|<a href="https://hawt.io/" target="_blank" >Hawtio</a>|A modular web console for managing your Java stuff.|
 
 ### Others
 
