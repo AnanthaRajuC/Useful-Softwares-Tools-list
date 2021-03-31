@@ -4,7 +4,7 @@ Living document containing a list of free and <a href="https://en.wikipedia.org/
 - [Fiddles](./Fiddles.md)
 - [Linux](./Linux.md)
 - [Web Browsers and Plugins](./Web-Browsers-and-Plugins.md)
-- [Reading and Reference](./Reference-and-Reference.md)
+- [Reading and Reference](./Reading-and-Reference.md)
 
 | Tool  	|      Description     	|
 |----------	|:------	|
@@ -114,18 +114,6 @@ Living document containing a list of free and <a href="https://en.wikipedia.org/
 |<a href="https://uptime.is/" target="_blank" >Uptime</a>|SLA & Uptime Calculator|
 |<a href="https://rapidapi.com/" target="_blank" >Rapid API</a>|RapidAPI is the world’s largest API marketplace.|
 
-### Design
-
-| Tool  	|      Description     	|
-|----------	|:-------------	|
-|<a href="http://codepen.io/" target="_blank" >CODEPEN</a>|playground for the front end web.|
-|<a href="https://www.behance.net/" target="_blank" >Behance</a>|Showcase and discover the latest work from top online portfolios by creative professionals across industries.| 
-|<a href="https://dribbble.com/" target="_blank" >Dribbble</a>|a place to show and tell, promote, discover, and explore design.| 
-|<a href="http://www.uplabs.com/" target="_blank" >UpLabs</a>|UpLabs curates the best of design & development inspiration, resources and freebies. | 
-|<a href="http://www.materialup.com/" target="_blank" >MaterialUp</a>|MaterialUp curates the best of Material Design| 
-|<a href="http://www.ios.uplabs.com/" target="_blank" >iOSUp</a>|iOSUp curates the best of iOS & OS X|
-|<a href="http://www.site.uplabs.com/" target="_blank" >SiteUp</a>|SiteUp curates the best of Web Design|
-
 ### IDE's (Online/Offline) and Plugins
 
 | Tool  	|      Description     	|
@@ -140,6 +128,7 @@ Living document containing a list of free and <a href="https://en.wikipedia.org/
 |<a href="https://marketplace.eclipse.org/content/spring-tools-aka-spring-ide-and-spring-tool-suite" target="_blank" >Spring Tools (aka Spring IDE and Spring Tool Suite)</a>|Eclipse-powered development environment for building Spring-powered enterprise applications.|
 |<a href="https://devops.datenkollektiv.de/banner.txt/index.html" target="_blank" >Online Spring Boot Banner Generator</a>|Online Spring Boot Banner Generator.|
 |<a href="https://www.gitpod.io/" target="_blank" >Gitpod</a>|One-Click Online IDE for GitHub|
+|<a href="http://codepen.io/" target="_blank" >CODEPEN</a>|playground for the front end web.|
 
 ### Virtualization
 
