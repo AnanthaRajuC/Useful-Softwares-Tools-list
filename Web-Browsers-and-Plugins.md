@@ -32,3 +32,4 @@
 |<a href="https://chrome.google.com/webstore/detail/devdocs/mnfehgbmkapmjnhcnbodoamcioleeooe?hl=en" target="_blank" >DevDocs</a>|All-in-one, offline API documentation browser with a fast, organized, and searchable interface.|
 |<a href="https://about.sourcegraph.com/" target="_blank" >sourcegraph</a>|Code navigation engine.|
 |<a href="https://www.octotree.io/" target="_blank" >Octotree</a>|Navigate code on GitHub with ease.|
+|<a href="https://developers.google.com/web/tools/lighthouse/" target="_blank" >Lighthouse</a>|Lighthouse is an open-source, automated tool for improving the quality of web pages.|
