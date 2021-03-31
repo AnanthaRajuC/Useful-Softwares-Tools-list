@@ -1,6 +1,10 @@
 # Useful Softwares, Services, Tools, Plugins list
 Living document containing a list of free and <a href="https://en.wikipedia.org/wiki/Open-source_software" target="_blank" >Open-source softwares</a>, Tools, Plugins, Utilities and services (Online/Offline)
 
+- [Fiddles](./Fiddles.md)
+- [Linux](./Linux.md)
+- [Web Browsers and Plugins](./Web-Browsers-and-Plugins.md)
+
 | Tool  	|      Description     	|
 |----------	|:------	|
 |<a href="http://stackshare.io/" target="_blank" >stackshare</a>|Discover and discuss the best software tools and services.|
