@@ -68,6 +68,14 @@ Living document containing a list of free and <a href="https://en.wikipedia.org/
 |<a href="https://stedolan.github.io/jq/" target="_blank" >jq</a>|Lightweight and flexible command-line JSON processor.|
 |<a href="http://cmder.net/" target="_blank" >cmder</a>|Portable console emulator for Windows.|
 
+### Linux Applications
+
+| Tool  	|      Description     	|
+|----------	|:------	|
+|<a href="https://gnome-terminator.org/" target="_blank" >Terminator Terminal Emulator</a>|Multiple GNOME terminals in one window!|
+|<a href="https://github.com/yang991178/fluent-reader" target="_blank" >Fluent Reader</a>|A modern desktop RSS reader|
+|<a href="https://github.com/bluppfisk/coinprice-indicator" target="_blank" >Coin Price Indicator</a>|Cryptocurrency price indicator applet for Linux.|
+
 ### Gnome Shell Extensions (Linux)
 
 | Tool  	  | Description|
