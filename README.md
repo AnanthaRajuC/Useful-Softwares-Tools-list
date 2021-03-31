@@ -23,7 +23,6 @@ Living document containing a list of free and <a href="https://en.wikipedia.org/
 |<a href="https://www.openproject.org/" target="_blank" >OpenProject</a>|Open source project management software.|
 |<a href="https://www.putty.org/" target="_blank" >PuTTY</a>|PuTTY is an SSH and telnet client, developed originally by Simon Tatham for the Windows platform.|
 |<a href="https://www.freepik.com/" target="_blank" >freepik</a>|Graphic resources for everyone. Find Free Vectors, Stock Photos, PSD and Icons.|
-|<a href="http://keystore-explorer.org/index.html" target="_blank" >KeyStore Explorer</a>|Open source GUI replacement for the Java command-line utilities keytool and jarsigner.|
 |<a href="https://mailslurper.com/" target="_blank" >MailSlurper</a>|SMTP mail server useful for local and team application development.|
 |<a href="http://label-schema.org/rc1/" target="_blank" >Label Schema</a>|Convention for a standardised way to express (Docker) container labels.|
 |<a href="https://chooser-beta.creativecommons.org/" target="_blank" >LICENSE CHOOSER</a>|helps select the appropriate license for your work.|
@@ -233,7 +232,7 @@ Living document containing a list of free and <a href="https://en.wikipedia.org/
 |<a href="http://jd.benow.ca/" target="_blank" >Java Decompiler</a>|Tool to decompile and analyze Java 5 “byte code” and the later versions.|
 |<a href="https://github.com/skylot/jadx" target="_blank" >jadx - Dex to Java decompiler</a>|Command line and GUI tools for produce Java source code from Android Dex and Apk files.|
 |<a href="https://github.com/skylot/jadxhttps://bytecodeviewer.com/" target="_blank" >Bytecode Viewer</a>|A Java 8 Jar & Android APK Reverse Engineering Suite (Decompiler, Editor, Debugger & More).|
-
+|<a href="http://keystore-explorer.org/index.html" target="_blank" >KeyStore Explorer</a>|Open source GUI replacement for the Java command-line utilities keytool and jarsigner.|
 
 ### Others
 
