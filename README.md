@@ -95,22 +95,6 @@ Living document containing a list of free and <a href="https://en.wikipedia.org/
 |<a href="https://extendsclass.com/csv-generator.html" target="_blank" >ExtendsClass</a>|Generate test data in CSV and SQL formats.|
 |<a href="https://gist.github.com/keeguon/2310008" target="_blank" >countries.json</a>|GitHub Gist listing countries' details.|
 
-### API's and Web Services
-
-| Tool  	|      Description     	|
-|----------	|:------	|
-|<a href="http://requestbin.com/" target="_blank" >RequestBin</a>|gives you a URL that will collect requests made to it and let you inspect them in a human-friendly way. Use RequestBin to see what your HTTP client is sending or to inspect and debug webhook requests.|
-|<a href="http://httpbin.org/" target="_blank" >httpbin</a>|HTTP Request & Response Service (Client Testing).|
-|<a href="https://reqres.in/" target="_blank" >REQ|RES</a>|A hosted REST-API ready to respond to your AJAX requests.|
-|<a href="https://postb.in/" target="_blank" >PostBin</a>|Programatically Test your API Clients or Webhooks|
-|<a href="https://apigee.com/providers" target="_blank" >Apigee API Console</a>|Discover, Learn, Test, and Debug any API with interactive developer tools and documentation.|
-|<a href="http://www.downforeveryoneorjustme.com/" target="_blank" >down for everyone or just me</a>|Check if a website id down just for you or everyone.|
-|<a href="http://mockbin.com/" target="_blank" >Mockbin</a>|Mockbin allows you to generate custom endpoints to test, mock, and track HTTP requests & responses between libraries, sockets and APIs.|
-|<a href="https://apiembed.com/" target="_blank" >APIembed</a>|Embeddable API Code snippets - Auto-generated code snippets in many programming languages for your website, blog or API documentation.|
-|<a href="https://www.statuspage.io/" target="_blank" >Statuspage</a>|Status and incident communication tool.|
-|<a href="https://uptime.is/" target="_blank" >Uptime</a>|SLA & Uptime Calculator|
-|<a href="https://rapidapi.com/" target="_blank" >Rapid API</a>|RapidAPI is the world’s largest API marketplace.|
-
 ### IDE's (Online/Offline) and Plugins
 
 | Tool  	|      Description     	|
