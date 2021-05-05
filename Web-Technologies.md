@@ -33,6 +33,7 @@
 |<a href="https://about.sourcegraph.com/" target="_blank" >sourcegraph</a>|Code navigation engine.|
 |<a href="https://www.octotree.io/" target="_blank" >Octotree</a>|Navigate code on GitHub with ease.|
 |<a href="https://developers.google.com/web/tools/lighthouse/" target="_blank" >Lighthouse</a>|Lighthouse is an open-source, automated tool for improving the quality of web pages.|
+|<a href="https://chrome.google.com/webstore/detail/get-cookiestxt/bgaddhkoddajcdgocldbbfleckgcbcid" target="_blank" >Get cookies.txt</a>|Exports your cookies to the Netscape cookie file format a.k.a. cookies.txt|
 
 ### API's and Web Services
 
