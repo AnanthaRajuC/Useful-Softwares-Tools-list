@@ -26,6 +26,7 @@ Living document containing a list of free and <a href="https://en.wikipedia.org/
 |<a href="https://www.putty.org/" target="_blank" >PuTTY</a>|PuTTY is an SSH and telnet client, developed originally by Simon Tatham for the Windows platform.|
 |<a href="https://www.freepik.com/" target="_blank" >freepik</a>|Graphic resources for everyone. Find Free Vectors, Stock Photos, PSD and Icons.|
 |<a href="https://mailslurper.com/" target="_blank" >MailSlurper</a>|SMTP mail server useful for local and team application development.|
+|<a href="https://buttons.github.io/" target="_blank" >GitHub buttons</a>|GitHub buttons.|
 
 ### Platform as a Service (PaaS)
 ###### Free Tier
