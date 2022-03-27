@@ -20,6 +20,7 @@
 |<a href="https://www.speedtest.net/apps/cli" target="_blank" >SPEEDTEST CLI</a>|Internet connection measurement for developers.                                                       |
 |<a href="https://github.com/dundee/gdu" target="_blank" >gdu</a>               |Fast disk usage analyzer with console interfaces                                                      |
 |<a href="https://www.gnu.org/software/wget/" target="_blank" >GNU Wget</a>     |package for retrieving files using HTTP, HTTPS, FTP and FTPS, the most widely used Internet protocols.|
+|<a href="https://virt-manager.org/" target="_blank" >virt-managerr</a>         |Desktop user interface for managing virtual machines through libvirt. It primarily targets KVM VMs.   |
 
 ### Gnome Shell Extensions
 
