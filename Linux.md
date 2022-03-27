@@ -2,11 +2,24 @@
 
 ### Applications
 
-| Tool  	|      Description     	|
-|----------	|:------	|
-|<a href="https://gnome-terminator.org/" target="_blank" >Terminator Terminal Emulator</a>|Multiple GNOME terminals in one window!|
-|<a href="https://github.com/yang991178/fluent-reader" target="_blank" >Fluent Reader</a>|A modern desktop RSS reader|
+| Tool  	                                                                                         |      Description     	                      |
+|----------------------------------------------------------------------------------------------------|------------------------------------------------|
+|<a href="https://gnome-terminator.org/" target="_blank" >Terminator Terminal Emulator</a>           |Multiple GNOME terminals in one window!         |
+|<a href="https://github.com/yang991178/fluent-reader" target="_blank" >Fluent Reader</a>            |A modern desktop RSS reader                     |
 |<a href="https://github.com/bluppfisk/coinprice-indicator" target="_blank" >Coin Price Indicator</a>|Cryptocurrency price indicator applet for Linux.|
+
+### Various
+
+| App  	                                                                        |      Description     	                                                                               |
+|-------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------|
+|<a href="https://htop.dev/" target="_blank" >htop</a>                          |an interactive process viewer                                                                         |
+|<a href="https://github.com/aristocratos/bpytop" target="_blank" >bpytop</a>   |Linux/OSX/FreeBSD resource monitor                                                                    |
+|<a href="https://github.com/Dr-Noob/cpufetch" target="_blank" >cpufetch</a>    |Simple yet fancy CPU architecture fetching tool                                                       |
+|<a href="https://github.com/dylanaraps/neofetch" target="_blank" >neofetch</a> |command-line system information tool                                                                  |
+|<a href="https://github.com/sharkdp/bat" target="_blank" >bat</a>              |A cat(1) clone with wings.                                                                            |
+|<a href="https://www.speedtest.net/apps/cli" target="_blank" >SPEEDTEST CLI</a>|Internet connection measurement for developers.                                                       |
+|<a href="https://github.com/dundee/gdu" target="_blank" >gdu</a>               |Fast disk usage analyzer with console interfaces                                                      |
+|<a href="https://www.gnu.org/software/wget/" target="_blank" >GNU Wget</a>     |package for retrieving files using HTTP, HTTPS, FTP and FTPS, the most widely used Internet protocols.|
 
 ### Gnome Shell Extensions
 
