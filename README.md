@@ -68,6 +68,7 @@ Living document containing a list of free and <a href="https://en.wikipedia.org/
 | Tool  	|      Description     	|
 |----------	|:------	|
 |<a href="https://technet.microsoft.com/en-gb/sysinternals/bb897437" target="_blank" >TCPView</a>|TCPView is a Windows program that will show you detailed listings of all TCP and UDP endpoints on your system, including the local and remote addresses and state of TCP connections.|
+|<a href="https://browser.lol/" target="_blank" >Browser.lol</a>|Use this virtual browser within your existing one to test website reachability from outside of your network or securely open insecure links.|
 
 ### Editor
 
