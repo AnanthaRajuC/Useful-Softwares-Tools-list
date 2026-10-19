@@ -38,6 +38,7 @@ Living document containing a list of free and <a href="https://en.wikipedia.org/
 |<a href="https://markdowntohtml.com/" target="_blank" >Markdown to HTML Converter</a>|Markdown to HTML Converter.|
 |<a href="https://asciidoclive.com/" target="_blank" >asciidocLIVE</a>|Online AsciiDoc editor.|
 |<a href="https://foliovision.com/seo-tools/pandoc-online#" target="_blank" >foliovision</a>|Convert between HTML, HTML5, Latex, Markdown, Textile, ASCII, ODT, text, RTF, mediawiki.|
+|<a href="https://github.com/NeoPanic/Glim" target="_blank" rel="noopener noreferrer">Glim</a>|Free, MIT-licensed macOS file viewer with Markdown diagrams/formulas and basic UTF-8 editing, alongside read-only document previews.|
 
 ### Command Line Tools
 
